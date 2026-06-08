@@ -1,0 +1,638 @@
+@font-face {
+  font-family: "Pretendard";
+  font-weight: 45 920;
+  font-style: normal;
+  font-display: swap;
+  src: url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/variable/woff2/PretendardVariable.woff2")
+    format("woff2-variations");
+}
+
+:root {
+  color: #a6462f;
+  background: #f8f6f2;
+  font-family: "Pretendard", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  background: #f8f6f2;
+}
+
+button,
+input,
+select {
+  font: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+.app-shell {
+  width: min(1220px, calc(100% - 28px));
+  margin: 0 auto;
+  padding: 16px 0 48px;
+}
+
+.app-shell.map-only {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.topbar,
+.nav-actions,
+.brand,
+.toolbar,
+.meta-row,
+.info-band,
+.card-title-row,
+.detail-heading,
+.map-toolbar,
+.view-toggle {
+  display: flex;
+  align-items: center;
+}
+
+.topbar {
+  justify-content: space-between;
+  gap: 16px;
+  padding: 0 0 28px;
+}
+
+.brand {
+  border: 0;
+  background: transparent;
+  color: #be3f28;
+  gap: 10px;
+  padding: 0;
+  font-family: "Pretendard", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: 0;
+}
+
+.brand-mark {
+  width: 34px;
+  height: 34px;
+  display: grid;
+  place-items: center;
+  border: 1px solid #c98a7b;
+  border-radius: 50%;
+}
+
+.nav-actions {
+  gap: 18px;
+}
+
+.nav-actions button,
+.save-button,
+.map-toolbar button,
+.view-toggle button {
+  border: 1px solid #c98a7b;
+  background: transparent;
+  color: #a6462f;
+  border-radius: 999px;
+  padding: 8px 14px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.nav-actions button.active,
+.save-button.saved,
+.view-toggle button.active {
+  background: #a6462f;
+  border-color: #a6462f;
+  color: #fffaf7;
+}
+
+.count {
+  min-width: 22px;
+  height: 22px;
+  border-radius: 999px;
+  display: inline-grid;
+  place-items: center;
+  background: rgba(166, 70, 47, 0.1);
+  font-size: 12px;
+}
+
+.nav-actions button.active .count {
+  background: rgba(255, 255, 255, 0.18);
+}
+
+.map-stage {
+  display: grid;
+  flex: 1;
+}
+
+.map-only .map-stage {
+  align-items: center;
+  min-height: calc(100vh - 86px);
+}
+
+.map-panel,
+.tea-card,
+.detail-panel,
+.empty-state,
+.type-group {
+  border: 1px solid #eadfd8;
+  background: #fbf9f5;
+}
+
+.map-panel {
+  width: 100%;
+  padding: 18px;
+}
+
+.map-only .map-panel {
+  border: 0;
+  background: transparent;
+  padding: 0;
+}
+
+.map-toolbar {
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 18px;
+}
+
+.map-toolbar div {
+  display: grid;
+  gap: 3px;
+}
+
+.map-toolbar strong {
+  font-family: "Pretendard", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: #be3f28;
+  font-size: clamp(38px, 6vw, 76px);
+  line-height: 0.9;
+}
+
+.map-toolbar span {
+  color: #a6462f;
+  font-size: 14px;
+}
+
+.map-toolbar button {
+  width: 42px;
+  height: 42px;
+  justify-content: center;
+  padding: 0;
+}
+
+.china-map {
+  position: relative;
+  min-height: 440px;
+  background: #f2f1ee;
+  overflow: hidden;
+}
+
+.map-only .china-map {
+  min-height: min(72vh, 720px);
+}
+
+.china-map svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  min-height: inherit;
+}
+
+.map-ocean {
+  fill: #f2f1ee;
+}
+
+.province-region {
+  fill: #dce5f2;
+  stroke: #ffffff;
+  stroke-width: 1.8;
+  vector-effect: non-scaling-stroke;
+  transition:
+    fill 160ms ease,
+    opacity 160ms ease;
+}
+
+.province-region.has-tea {
+  cursor: pointer;
+  fill: #cfdcf1;
+}
+
+.province-region.has-tea:hover,
+.province-region.has-tea.active {
+  fill: #b7c9e8;
+}
+
+.province-label {
+  cursor: pointer;
+  pointer-events: auto;
+}
+
+.province-label text {
+  fill: #a6462f;
+  dominant-baseline: middle;
+  font-size: 8.5px;
+  font-weight: 600;
+  paint-order: stroke;
+  pointer-events: none;
+  stroke: #f8f6f2;
+  stroke-width: 3px;
+  text-anchor: middle;
+}
+
+.province-label.active text {
+  fill: #7f2f1f;
+  font-weight: 800;
+}
+
+.toolbar {
+  margin: 28px 0 18px;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.search-box {
+  flex: 1 1 280px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: transparent;
+  border: 1px solid #d8beb4;
+  border-radius: 999px;
+  padding: 0 14px;
+  min-height: 42px;
+}
+
+.search-box input {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  color: #a6462f;
+}
+
+.search-box input::placeholder {
+  color: #c38b7d;
+}
+
+select {
+  min-height: 42px;
+  border: 1px solid #d8beb4;
+  border-radius: 999px;
+  background: transparent;
+  color: #a6462f;
+  padding: 0 34px 0 12px;
+}
+
+.view-toggle {
+  gap: 6px;
+}
+
+.view-toggle button {
+  min-height: 42px;
+}
+
+.content-grid {
+  display: grid;
+  grid-template-columns: minmax(320px, 0.9fr) minmax(360px, 1.1fr);
+  gap: 18px;
+  align-items: start;
+}
+
+.tea-list {
+  display: grid;
+  gap: 14px;
+}
+
+.tea-card {
+  min-height: 172px;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 16px;
+  background: var(--tea-tint, #fbf9f5);
+}
+
+.tea-card.selected {
+  border-color: var(--tea-strong, #a6462f);
+  box-shadow: inset 4px 0 0 var(--tea-strong, #a6462f);
+}
+
+.card-title-row,
+.detail-heading {
+  justify-content: space-between;
+  gap: 12px;
+}
+
+.tea-card h2,
+.detail-panel h2,
+.detail-panel h3,
+.type-group h2 {
+  margin: 0;
+}
+
+.tea-card h2 {
+  margin-top: 7px;
+  color: #a6462f;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.type-pill {
+  display: inline-flex;
+  border-radius: 999px;
+  padding: 4px 9px;
+  border: 1px solid var(--tea-strong, #a6462f);
+  color: var(--tea-text, #a6462f);
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.hanzi {
+  margin: 4px 0 10px;
+  color: var(--tea-text, #8c4b3c);
+  font-weight: 500;
+}
+
+.tea-card p,
+.detail-panel p {
+  color: #8b5a4d;
+  line-height: 1.7;
+}
+
+.icon-button {
+  width: 36px;
+  height: 36px;
+  min-width: 36px;
+  border: 1px solid #d8beb4;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  color: #a6462f;
+  background: transparent;
+}
+
+.icon-button.liked {
+  color: #be3f28;
+  border-color: #be3f28;
+}
+
+.meta-row,
+.info-band {
+  justify-content: space-between;
+  gap: 8px;
+  flex-wrap: wrap;
+  color: #9a675a;
+}
+
+.meta-row span,
+.info-band span {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 14px;
+}
+
+.type-group {
+  padding: 16px;
+}
+
+.type-group h2 {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 12px;
+  color: var(--tea-text, #a6462f);
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.type-group h2 span {
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.type-group-list {
+  display: grid;
+  gap: 12px;
+}
+
+.detail-panel {
+  position: sticky;
+  top: 18px;
+  padding: 24px;
+  background: var(--tea-tint, #fbf9f5);
+}
+
+.detail-panel h2 {
+  color: #a6462f;
+  font-size: 34px;
+  font-weight: 600;
+}
+
+.eyebrow {
+  margin: 0;
+  color: var(--tea-strong, #a6462f);
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.save-button {
+  border-color: var(--tea-strong, #a6462f);
+  color: var(--tea-text, #a6462f);
+  background: transparent;
+  white-space: nowrap;
+}
+
+.save-button.saved {
+  background: var(--tea-strong, #a6462f);
+  border-color: var(--tea-strong, #a6462f);
+}
+
+.summary {
+  font-size: 16px;
+}
+
+.info-band {
+  margin: 18px 0 24px;
+  padding: 14px;
+  background: rgba(248, 246, 242, 0.62);
+  border: 1px solid color-mix(in srgb, var(--tea-strong, #a6462f) 22%, #fff);
+  color: var(--tea-text, #a6462f);
+}
+
+.detail-panel section {
+  margin-top: 24px;
+}
+
+.detail-panel h3 {
+  margin-bottom: 12px;
+  color: #a6462f;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.process-list {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: step;
+}
+
+.process-list li {
+  counter-increment: step;
+  padding: 10px 12px;
+  border: 1px solid color-mix(in srgb, var(--tea-strong, #a6462f) 18%, #fff);
+  color: #8b5a4d;
+}
+
+.process-list li::before {
+  content: counter(step) ". ";
+  font-weight: 700;
+  color: var(--tea-strong, #a6462f);
+}
+
+.brew-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.brew-grid div {
+  min-height: 112px;
+  display: grid;
+  align-content: center;
+  gap: 8px;
+  background: var(--tea-strong, #a6462f);
+  color: #fffaf7;
+  padding: 14px;
+}
+
+.brew-grid strong {
+  font-size: 16px;
+}
+
+.brew-grid span {
+  color: rgba(255, 255, 255, 0.78);
+  font-size: 13px;
+}
+
+.chips,
+.brand-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.chips span,
+.brand-list a {
+  border-radius: 999px;
+  padding: 8px 11px;
+  background: transparent;
+  border: 1px solid color-mix(in srgb, var(--tea-strong, #a6462f) 26%, #fff);
+  color: var(--tea-text, #a6462f);
+}
+
+.brand-list a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.brand-list a:hover {
+  border-color: var(--tea-strong, #a6462f);
+  color: var(--tea-strong, #a6462f);
+}
+
+.empty-state {
+  min-height: 180px;
+  display: grid;
+  place-items: center;
+  align-content: center;
+  gap: 10px;
+  color: #9a675a;
+}
+
+@media (max-width: 920px) {
+  .app-shell {
+    width: min(100% - 20px, 760px);
+    padding-top: 12px;
+  }
+
+  .topbar {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .nav-actions {
+    width: 100%;
+  }
+
+  .nav-actions button {
+    flex: 1;
+    justify-content: center;
+  }
+
+  .content-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .detail-panel {
+    position: static;
+  }
+
+  .process-list,
+  .brew-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 560px) {
+  .map-toolbar {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .map-toolbar strong {
+    font-size: 42px;
+  }
+
+  .china-map,
+  .map-only .china-map {
+    min-height: 540px;
+  }
+
+  .province-label text {
+    font-size: 7.8px;
+  }
+
+  .toolbar select,
+  .view-toggle {
+    flex: 1 1 100%;
+  }
+
+  .view-toggle button {
+    flex: 1;
+    justify-content: center;
+  }
+
+  .detail-heading {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}

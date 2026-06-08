@@ -1,0 +1,5293 @@
+[
+  {
+    "id": "龙井茶-용정차",
+    "name": "용정차",
+    "hanzi": "龙井茶",
+    "region": "저장성 항저우",
+    "province": "저장성",
+    "type": "녹차",
+    "famousArea": "서호 일대",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%9A%A9%EC%A0%95%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%9A%A9%EC%A0%95%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "서호 일대 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%84%9C%ED%98%B8%20%EC%9D%BC%EB%8C%80%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%9A%A9%EC%A0%95%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "밤향",
+      "볶은 콩",
+      "부드러운 감칠맛"
+    ],
+    "summary": "저장성 항저우의 녹차 계열 차로, 밤향과 볶은 콩이 특징입니다."
+  },
+  {
+    "id": "碧螺春-벽라춘",
+    "name": "벽라춘",
+    "hanzi": "碧螺春",
+    "region": "장쑤성 쑤저우",
+    "province": "장쑤성",
+    "type": "녹차",
+    "famousArea": "동정산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EB%B2%BD%EB%9D%BC%EC%B6%98%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EB%B2%BD%EB%9D%BC%EC%B6%98%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "동정산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%8F%99%EC%A0%95%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%B2%BD%EB%9D%BC%EC%B6%98%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "꽃향",
+      "과일향",
+      "신선한 단맛"
+    ],
+    "summary": "장쑤성 쑤저우의 녹차 계열 차로, 꽃향과 과일향이 특징입니다."
+  },
+  {
+    "id": "黄山毛峰-황산모봉",
+    "name": "황산모봉",
+    "hanzi": "黄山毛峰",
+    "region": "안후이성 황산",
+    "province": "안후이성",
+    "type": "녹차",
+    "famousArea": "황산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%ED%99%A9%EC%82%B0%EB%AA%A8%EB%B4%89%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%ED%99%A9%EC%82%B0%EB%AA%A8%EB%B4%89%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "황산 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%99%A9%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%ED%99%A9%EC%82%B0%EB%AA%A8%EB%B4%89%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "난향",
+      "밤향",
+      "맑은 단맛"
+    ],
+    "summary": "안후이성 황산의 녹차 계열 차로, 난향과 밤향이 특징입니다."
+  },
+  {
+    "id": "六安瓜片-육안과편",
+    "name": "육안과편",
+    "hanzi": "六安瓜片",
+    "region": "안후이성 루안",
+    "province": "안후이성",
+    "type": "녹차",
+    "famousArea": "대별산 일대",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%9C%A1%EC%95%88%EA%B3%BC%ED%8E%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%9C%A1%EC%95%88%EA%B3%BC%ED%8E%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "대별산 일대 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%8C%80%EB%B3%84%EC%82%B0%20%EC%9D%BC%EB%8C%80%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%9C%A1%EC%95%88%EA%B3%BC%ED%8E%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "풋향",
+      "구수함",
+      "깨끗한 여운"
+    ],
+    "summary": "안후이성 루안의 녹차 계열 차로, 풋향과 구수함이 특징입니다."
+  },
+  {
+    "id": "太平猴魁-태평후괴",
+    "name": "태평후괴",
+    "hanzi": "太平猴魁",
+    "region": "안후이성 황산 태평",
+    "province": "안후이성",
+    "type": "녹차",
+    "famousArea": "태평현",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%ED%83%9C%ED%8F%89%ED%9B%84%EA%B4%B4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%ED%83%9C%ED%8F%89%ED%9B%84%EA%B4%B4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "태평현 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%83%9C%ED%8F%89%ED%98%84%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%ED%83%9C%ED%8F%89%ED%9B%84%EA%B4%B4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "난향",
+      "시원함",
+      "긴 잎의 청향"
+    ],
+    "summary": "안후이성 황산 태평의 녹차 계열 차로, 난향과 시원함이 특징입니다."
+  },
+  {
+    "id": "信阳毛尖-신양모첨",
+    "name": "신양모첨",
+    "hanzi": "信阳毛尖",
+    "region": "허난성 신양",
+    "province": "허난성",
+    "type": "녹차",
+    "famousArea": "신양",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%8B%A0%EC%96%91%EB%AA%A8%EC%B2%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%8B%A0%EC%96%91%EB%AA%A8%EC%B2%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "신양 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%8B%A0%EC%96%91%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%8B%A0%EC%96%91%EB%AA%A8%EC%B2%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "신선한 풀향",
+      "감칠맛",
+      "단정한 떫음"
+    ],
+    "summary": "허난성 신양의 녹차 계열 차로, 신선한 풀향과 감칠맛이 특징입니다."
+  },
+  {
+    "id": "都匀毛尖-도균모첨",
+    "name": "도균모첨",
+    "hanzi": "都匀毛尖",
+    "region": "구이저우성 도균",
+    "province": "구이저우성",
+    "type": "녹차",
+    "famousArea": "도균",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EB%8F%84%EA%B7%A0%EB%AA%A8%EC%B2%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EB%8F%84%EA%B7%A0%EB%AA%A8%EC%B2%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "도균 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%8F%84%EA%B7%A0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%8F%84%EA%B7%A0%EB%AA%A8%EC%B2%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "꽃향",
+      "단맛",
+      "맑은 바디"
+    ],
+    "summary": "구이저우성 도균의 녹차 계열 차로, 꽃향과 단맛이 특징입니다."
+  },
+  {
+    "id": "安吉白茶-안길백차",
+    "name": "안길백차",
+    "hanzi": "安吉白茶",
+    "region": "저장성 안지",
+    "province": "저장성",
+    "type": "녹차",
+    "famousArea": "안지",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%95%88%EA%B8%B8%EB%B0%B1%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%95%88%EA%B8%B8%EB%B0%B1%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "안지 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%95%88%EC%A7%80%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%95%88%EA%B8%B8%EB%B0%B1%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "연한 풀향",
+      "감칠맛",
+      "부드러움"
+    ],
+    "summary": "저장성 안지의 녹차 계열 차로, 연한 풀향과 감칠맛이 특징입니다."
+  },
+  {
+    "id": "恩施玉露-은시옥로",
+    "name": "은시옥로",
+    "hanzi": "恩施玉露",
+    "region": "후베이성 은시",
+    "province": "후베이성",
+    "type": "녹차",
+    "famousArea": "은시",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%9D%80%EC%8B%9C%EC%98%A5%EB%A1%9C%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%9D%80%EC%8B%9C%EC%98%A5%EB%A1%9C%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "은시 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9D%80%EC%8B%9C%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%9D%80%EC%8B%9C%EC%98%A5%EB%A1%9C%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "해조향",
+      "옥수수향",
+      "맑은 단맛"
+    ],
+    "summary": "후베이성 은시의 녹차 계열 차로, 해조향과 옥수수향이 특징입니다."
+  },
+  {
+    "id": "庐山云雾-여산운무",
+    "name": "여산운무",
+    "hanzi": "庐山云雾",
+    "region": "장시성 루산",
+    "province": "장시성",
+    "type": "녹차",
+    "famousArea": "루산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%97%AC%EC%82%B0%EC%9A%B4%EB%AC%B4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%97%AC%EC%82%B0%EC%9A%B4%EB%AC%B4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "루산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%A3%A8%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%97%AC%EC%82%B0%EC%9A%B4%EB%AC%B4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "운무향",
+      "난향",
+      "부드러운 떫음"
+    ],
+    "summary": "장시성 루산의 녹차 계열 차로, 운무향과 난향이 특징입니다."
+  },
+  {
+    "id": "蒙顶甘露-몽정감로",
+    "name": "몽정감로",
+    "hanzi": "蒙顶甘露",
+    "region": "쓰촨성 야안 몽정산",
+    "province": "쓰촨성",
+    "type": "녹차",
+    "famousArea": "몽정산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EB%AA%BD%EC%A0%95%EA%B0%90%EB%A1%9C%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EB%AA%BD%EC%A0%95%EA%B0%90%EB%A1%9C%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "몽정산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%AA%BD%EC%A0%95%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%AA%BD%EC%A0%95%EA%B0%90%EB%A1%9C%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "꿀향",
+      "풋향",
+      "달큰함"
+    ],
+    "summary": "쓰촨성 야안 몽정산의 녹차 계열 차로, 꿀향과 풋향이 특징입니다."
+  },
+  {
+    "id": "竹叶青-죽엽청",
+    "name": "죽엽청",
+    "hanzi": "竹叶青",
+    "region": "쓰촨성 어메이산",
+    "province": "쓰촨성",
+    "type": "녹차",
+    "famousArea": "어메이산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%A3%BD%EC%97%BD%EC%B2%AD%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%A3%BD%EC%97%BD%EC%B2%AD%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "어메이산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%96%B4%EB%A9%94%EC%9D%B4%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%A3%BD%EC%97%BD%EC%B2%AD%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "대나무잎 향",
+      "청량감",
+      "맑은 맛"
+    ],
+    "summary": "쓰촨성 어메이산의 녹차 계열 차로, 대나무잎 향과 청량감이 특징입니다."
+  },
+  {
+    "id": "峨眉毛峰-어메이모봉",
+    "name": "어메이모봉",
+    "hanzi": "峨眉毛峰",
+    "region": "쓰촨성 어메이산",
+    "province": "쓰촨성",
+    "type": "녹차",
+    "famousArea": "어메이산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%96%B4%EB%A9%94%EC%9D%B4%EB%AA%A8%EB%B4%89%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%96%B4%EB%A9%94%EC%9D%B4%EB%AA%A8%EB%B4%89%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "어메이산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%96%B4%EB%A9%94%EC%9D%B4%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%96%B4%EB%A9%94%EC%9D%B4%EB%AA%A8%EB%B4%89%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "꽃향",
+      "곡물향",
+      "산뜻함"
+    ],
+    "summary": "쓰촨성 어메이산의 녹차 계열 차로, 꽃향과 곡물향이 특징입니다."
+  },
+  {
+    "id": "开化龙顶-개화용정",
+    "name": "개화용정",
+    "hanzi": "开化龙顶",
+    "region": "저장성 취저우 카이화",
+    "province": "저장성",
+    "type": "녹차",
+    "famousArea": "카이화",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EA%B0%9C%ED%99%94%EC%9A%A9%EC%A0%95%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EA%B0%9C%ED%99%94%EC%9A%A9%EC%A0%95%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "카이화 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%B9%B4%EC%9D%B4%ED%99%94%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EA%B0%9C%ED%99%94%EC%9A%A9%EC%A0%95%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "밤향",
+      "신선한 단맛",
+      "깨끗함"
+    ],
+    "summary": "저장성 취저우 카이화의 녹차 계열 차로, 밤향과 신선한 단맛이 특징입니다."
+  },
+  {
+    "id": "南京雨花茶-남경우화차",
+    "name": "남경우화차",
+    "hanzi": "南京雨花茶",
+    "region": "장쑤성 난징",
+    "province": "장쑤성",
+    "type": "녹차",
+    "famousArea": "난징",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EB%82%A8%EA%B2%BD%EC%9A%B0%ED%99%94%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EB%82%A8%EA%B2%BD%EC%9A%B0%ED%99%94%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "난징 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%82%9C%EC%A7%95%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%82%A8%EA%B2%BD%EC%9A%B0%ED%99%94%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "솔향",
+      "꽃향",
+      "담백함"
+    ],
+    "summary": "장쑤성 난징의 녹차 계열 차로, 솔향과 꽃향이 특징입니다."
+  },
+  {
+    "id": "顾渚紫笋-고저자순",
+    "name": "고저자순",
+    "hanzi": "顾渚紫笋",
+    "region": "저장성 창싱",
+    "province": "저장성",
+    "type": "녹차",
+    "famousArea": "고저산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EA%B3%A0%EC%A0%80%EC%9E%90%EC%88%9C%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EA%B3%A0%EC%A0%80%EC%9E%90%EC%88%9C%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "고저산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EA%B3%A0%EC%A0%80%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EA%B3%A0%EC%A0%80%EC%9E%90%EC%88%9C%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "곡물향",
+      "부드러운 단맛",
+      "은은함"
+    ],
+    "summary": "저장성 창싱의 녹차 계열 차로, 곡물향과 부드러운 단맛이 특징입니다."
+  },
+  {
+    "id": "敬亭绿雪-경정녹설",
+    "name": "경정녹설",
+    "hanzi": "敬亭绿雪",
+    "region": "안후이성 쉬안청",
+    "province": "안후이성",
+    "type": "녹차",
+    "famousArea": "경정산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EA%B2%BD%EC%A0%95%EB%85%B9%EC%84%A4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EA%B2%BD%EC%A0%95%EB%85%B9%EC%84%A4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "경정산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EA%B2%BD%EC%A0%95%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EA%B2%BD%EC%A0%95%EB%85%B9%EC%84%A4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "눈 같은 솜털",
+      "꽃향",
+      "산뜻함"
+    ],
+    "summary": "안후이성 쉬안청의 녹차 계열 차로, 눈 같은 솜털과 꽃향이 특징입니다."
+  },
+  {
+    "id": "岳西翠兰-악서취란",
+    "name": "악서취란",
+    "hanzi": "岳西翠兰",
+    "region": "안후이성 악서",
+    "province": "안후이성",
+    "type": "녹차",
+    "famousArea": "악서",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%95%85%EC%84%9C%EC%B7%A8%EB%9E%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%95%85%EC%84%9C%EC%B7%A8%EB%9E%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "악서 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%95%85%EC%84%9C%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%95%85%EC%84%9C%EC%B7%A8%EB%9E%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "난향",
+      "맑은 감칠맛",
+      "연한 단맛"
+    ],
+    "summary": "안후이성 악서의 녹차 계열 차로, 난향과 맑은 감칠맛이 특징입니다."
+  },
+  {
+    "id": "舒城小兰花-서성소란화",
+    "name": "서성소란화",
+    "hanzi": "舒城小兰花",
+    "region": "안후이성 서성",
+    "province": "안후이성",
+    "type": "녹차",
+    "famousArea": "서성",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%84%9C%EC%84%B1%EC%86%8C%EB%9E%80%ED%99%94%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%84%9C%EC%84%B1%EC%86%8C%EB%9E%80%ED%99%94%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "서성 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%84%9C%EC%84%B1%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%84%9C%EC%84%B1%EC%86%8C%EB%9E%80%ED%99%94%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "난향",
+      "청향",
+      "부드러운 여운"
+    ],
+    "summary": "안후이성 서성의 녹차 계열 차로, 난향과 청향이 특징입니다."
+  },
+  {
+    "id": "婺源茗眉-무원명미",
+    "name": "무원명미",
+    "hanzi": "婺源茗眉",
+    "region": "장시성 우위안",
+    "province": "장시성",
+    "type": "녹차",
+    "famousArea": "우위안",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EB%AC%B4%EC%9B%90%EB%AA%85%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EB%AC%B4%EC%9B%90%EB%AA%85%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "우위안 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9A%B0%EC%9C%84%EC%95%88%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%AC%B4%EC%9B%90%EB%AA%85%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "꽃향",
+      "밤향",
+      "산뜻한 단맛"
+    ],
+    "summary": "장시성 우위안의 녹차 계열 차로, 꽃향과 밤향이 특징입니다."
+  },
+  {
+    "id": "上饶白眉-상요백미",
+    "name": "상요백미",
+    "hanzi": "上饶白眉",
+    "region": "장시성 상라오",
+    "province": "장시성",
+    "type": "녹차",
+    "famousArea": "상라오",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%83%81%EC%9A%94%EB%B0%B1%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%83%81%EC%9A%94%EB%B0%B1%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "상라오 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%83%81%EB%9D%BC%EC%98%A4%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%83%81%EC%9A%94%EB%B0%B1%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "풋향",
+      "은은한 단맛",
+      "맑음"
+    ],
+    "summary": "장시성 상라오의 녹차 계열 차로, 풋향과 은은한 단맛이 특징입니다."
+  },
+  {
+    "id": "狗牯脑茶-구고뇌차",
+    "name": "구고뇌차",
+    "hanzi": "狗牯脑茶",
+    "region": "장시성 쑤이촨",
+    "province": "장시성",
+    "type": "녹차",
+    "famousArea": "구고뇌산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EA%B5%AC%EA%B3%A0%EB%87%8C%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EA%B5%AC%EA%B3%A0%EB%87%8C%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "구고뇌산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EA%B5%AC%EA%B3%A0%EB%87%8C%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EA%B5%AC%EA%B3%A0%EB%87%8C%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "밤향",
+      "구수함",
+      "부드러운 감칠맛"
+    ],
+    "summary": "장시성 쑤이촨의 녹차 계열 차로, 밤향과 구수함이 특징입니다."
+  },
+  {
+    "id": "江山绿牡丹-강산녹모단",
+    "name": "강산녹모단",
+    "hanzi": "江山绿牡丹",
+    "region": "저장성 장산",
+    "province": "저장성",
+    "type": "녹차",
+    "famousArea": "장산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EA%B0%95%EC%82%B0%EB%85%B9%EB%AA%A8%EB%8B%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EA%B0%95%EC%82%B0%EB%85%B9%EB%AA%A8%EB%8B%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "장산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9E%A5%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EA%B0%95%EC%82%B0%EB%85%B9%EB%AA%A8%EB%8B%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "꽃향",
+      "신선함",
+      "맑은 여운"
+    ],
+    "summary": "저장성 장산의 녹차 계열 차로, 꽃향과 신선함이 특징입니다."
+  },
+  {
+    "id": "日照绿茶-일조녹차",
+    "name": "일조녹차",
+    "hanzi": "日照绿茶",
+    "region": "산둥성 르자오",
+    "province": "산둥성",
+    "type": "녹차",
+    "famousArea": "르자오",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%9D%BC%EC%A1%B0%EB%85%B9%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%9D%BC%EC%A1%B0%EB%85%B9%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "르자오 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%A5%B4%EC%9E%90%EC%98%A4%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%9D%BC%EC%A1%B0%EB%85%B9%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "콩향",
+      "짙은 감칠맛",
+      "시원함"
+    ],
+    "summary": "산둥성 르자오의 녹차 계열 차로, 콩향과 짙은 감칠맛이 특징입니다."
+  },
+  {
+    "id": "崂山绿茶-노산녹차",
+    "name": "노산녹차",
+    "hanzi": "崂山绿茶",
+    "region": "산둥성 칭다오",
+    "province": "산둥성",
+    "type": "녹차",
+    "famousArea": "노산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EB%85%B8%EC%82%B0%EB%85%B9%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EB%85%B8%EC%82%B0%EB%85%B9%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "노산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%85%B8%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%85%B8%EC%82%B0%EB%85%B9%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "완두콩향",
+      "해풍 느낌",
+      "구수함"
+    ],
+    "summary": "산둥성 칭다오의 녹차 계열 차로, 완두콩향과 해풍 느낌이 특징입니다."
+  },
+  {
+    "id": "汉中仙毫-한중선호",
+    "name": "한중선호",
+    "hanzi": "汉中仙毫",
+    "region": "산시성 한중",
+    "province": "산시성",
+    "type": "녹차",
+    "famousArea": "한중",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%ED%95%9C%EC%A4%91%EC%84%A0%ED%98%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%ED%95%9C%EC%A4%91%EC%84%A0%ED%98%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "한중 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%95%9C%EC%A4%91%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%ED%95%9C%EC%A4%91%EC%84%A0%ED%98%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "꽃향",
+      "밤향",
+      "부드러움"
+    ],
+    "summary": "산시성 한중의 녹차 계열 차로, 꽃향과 밤향이 특징입니다."
+  },
+  {
+    "id": "紫阳毛尖-자양모첨",
+    "name": "자양모첨",
+    "hanzi": "紫阳毛尖",
+    "region": "산시성 자양",
+    "province": "산시성",
+    "type": "녹차",
+    "famousArea": "자양",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%9E%90%EC%96%91%EB%AA%A8%EC%B2%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%9E%90%EC%96%91%EB%AA%A8%EC%B2%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "자양 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9E%90%EC%96%91%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%9E%90%EC%96%91%EB%AA%A8%EC%B2%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "셀레늄 산지 향",
+      "신선함",
+      "단맛"
+    ],
+    "summary": "산시성 자양의 녹차 계열 차로, 셀레늄 산지 향과 신선함이 특징입니다."
+  },
+  {
+    "id": "午子仙毫-오자선호",
+    "name": "오자선호",
+    "hanzi": "午子仙毫",
+    "region": "산시성 시샹",
+    "province": "산시성",
+    "type": "녹차",
+    "famousArea": "오자산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%98%A4%EC%9E%90%EC%84%A0%ED%98%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%98%A4%EC%9E%90%EC%84%A0%ED%98%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "오자산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%98%A4%EC%9E%90%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%98%A4%EC%9E%90%EC%84%A0%ED%98%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "청향",
+      "곡물향",
+      "깨끗함"
+    ],
+    "summary": "산시성 시샹의 녹차 계열 차로, 청향과 곡물향이 특징입니다."
+  },
+  {
+    "id": "平水珠茶-평수주차",
+    "name": "평수주차",
+    "hanzi": "平水珠茶",
+    "region": "저장성 사오싱",
+    "province": "저장성",
+    "type": "녹차",
+    "famousArea": "평수",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%ED%8F%89%EC%88%98%EC%A3%BC%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%ED%8F%89%EC%88%98%EC%A3%BC%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "평수 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%8F%89%EC%88%98%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%ED%8F%89%EC%88%98%EC%A3%BC%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "구수함",
+      "둥근 입자감",
+      "담백함"
+    ],
+    "summary": "저장성 사오싱의 녹차 계열 차로, 구수함과 둥근 입자감이 특징입니다."
+  },
+  {
+    "id": "惠明茶-혜명차",
+    "name": "혜명차",
+    "hanzi": "惠明茶",
+    "region": "저장성 징닝",
+    "province": "저장성",
+    "type": "녹차",
+    "famousArea": "혜명사 일대",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%ED%98%9C%EB%AA%85%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%ED%98%9C%EB%AA%85%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "혜명사 일대 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%98%9C%EB%AA%85%EC%82%AC%20%EC%9D%BC%EB%8C%80%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%ED%98%9C%EB%AA%85%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "꽃향",
+      "밤향",
+      "감칠맛"
+    ],
+    "summary": "저장성 징닝의 녹차 계열 차로, 꽃향과 밤향이 특징입니다."
+  },
+  {
+    "id": "松萝茶-송라차",
+    "name": "송라차",
+    "hanzi": "松萝茶",
+    "region": "안후이성 쉬닝",
+    "province": "안후이성",
+    "type": "녹차",
+    "famousArea": "송라산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%86%A1%EB%9D%BC%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%86%A1%EB%9D%BC%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "송라산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%86%A1%EB%9D%BC%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%86%A1%EB%9D%BC%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "솔향",
+      "청량감",
+      "은은한 쌉쌀함"
+    ],
+    "summary": "안후이성 쉬닝의 녹차 계열 차로, 솔향과 청량감이 특징입니다."
+  },
+  {
+    "id": "华顶云雾-화정운무",
+    "name": "화정운무",
+    "hanzi": "华顶云雾",
+    "region": "저장성 톈타이",
+    "province": "저장성",
+    "type": "녹차",
+    "famousArea": "화정산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%ED%99%94%EC%A0%95%EC%9A%B4%EB%AC%B4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%ED%99%94%EC%A0%95%EC%9A%B4%EB%AC%B4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "화정산 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%99%94%EC%A0%95%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%ED%99%94%EC%A0%95%EC%9A%B4%EB%AC%B4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "운무향",
+      "꽃향",
+      "맑음"
+    ],
+    "summary": "저장성 톈타이의 녹차 계열 차로, 운무향과 꽃향이 특징입니다."
+  },
+  {
+    "id": "天目青顶-천목청정",
+    "name": "천목청정",
+    "hanzi": "天目青顶",
+    "region": "저장성 린안",
+    "province": "저장성",
+    "type": "녹차",
+    "famousArea": "천목산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%B2%9C%EB%AA%A9%EC%B2%AD%EC%A0%95%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%B2%9C%EB%AA%A9%EC%B2%AD%EC%A0%95%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천목산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%AA%A9%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%B2%9C%EB%AA%A9%EC%B2%AD%EC%A0%95%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "산뜻함",
+      "밤향",
+      "맑은 감칠맛"
+    ],
+    "summary": "저장성 린안의 녹차 계열 차로, 산뜻함과 밤향이 특징입니다."
+  },
+  {
+    "id": "双井绿-쌍정녹차",
+    "name": "쌍정녹차",
+    "hanzi": "双井绿",
+    "region": "장시성 슈수이",
+    "province": "장시성",
+    "type": "녹차",
+    "famousArea": "쌍정",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%8C%8D%EC%A0%95%EB%85%B9%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%8C%8D%EC%A0%95%EB%85%B9%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "쌍정 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%8C%8D%EC%A0%95%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%8C%8D%EC%A0%95%EB%85%B9%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "곡물향",
+      "청향",
+      "부드러움"
+    ],
+    "summary": "장시성 슈수이의 녹차 계열 차로, 곡물향과 청향이 특징입니다."
+  },
+  {
+    "id": "麻姑茶-마고차",
+    "name": "마고차",
+    "hanzi": "麻姑茶",
+    "region": "장시성 난청",
+    "province": "장시성",
+    "type": "녹차",
+    "famousArea": "마고산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EB%A7%88%EA%B3%A0%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EB%A7%88%EA%B3%A0%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "마고산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%A7%88%EA%B3%A0%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%A7%88%EA%B3%A0%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "꽃향",
+      "감칠맛",
+      "깨끗함"
+    ],
+    "summary": "장시성 난청의 녹차 계열 차로, 꽃향과 감칠맛이 특징입니다."
+  },
+  {
+    "id": "英山云雾-영산운무",
+    "name": "영산운무",
+    "hanzi": "英山云雾",
+    "region": "후베이성 잉산",
+    "province": "후베이성",
+    "type": "녹차",
+    "famousArea": "대별산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%98%81%EC%82%B0%EC%9A%B4%EB%AC%B4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%98%81%EC%82%B0%EC%9A%B4%EB%AC%B4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "대별산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%8C%80%EB%B3%84%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%98%81%EC%82%B0%EC%9A%B4%EB%AC%B4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "운무향",
+      "밤향",
+      "산뜻함"
+    ],
+    "summary": "후베이성 잉산의 녹차 계열 차로, 운무향과 밤향이 특징입니다."
+  },
+  {
+    "id": "遂昌银猴-수성녹차",
+    "name": "수성녹차",
+    "hanzi": "遂昌银猴",
+    "region": "저장성 수이창",
+    "province": "저장성",
+    "type": "녹차",
+    "famousArea": "수이창",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%88%98%EC%84%B1%EB%85%B9%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%88%98%EC%84%B1%EB%85%B9%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "수이창 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%88%98%EC%9D%B4%EC%B0%BD%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%88%98%EC%84%B1%EB%85%B9%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "꽃향",
+      "풋향",
+      "단맛"
+    ],
+    "summary": "저장성 수이창의 녹차 계열 차로, 꽃향과 풋향이 특징입니다."
+  },
+  {
+    "id": "金山翠芽-진산취아",
+    "name": "진산취아",
+    "hanzi": "金山翠芽",
+    "region": "장쑤성 전장",
+    "province": "장쑤성",
+    "type": "녹차",
+    "famousArea": "진산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%A7%84%EC%82%B0%EC%B7%A8%EC%95%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%A7%84%EC%82%B0%EC%B7%A8%EC%95%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "진산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%A7%84%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%A7%84%EC%82%B0%EC%B7%A8%EC%95%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "밤향",
+      "청향",
+      "담백함"
+    ],
+    "summary": "장쑤성 전장의 녹차 계열 차로, 밤향과 청향이 특징입니다."
+  },
+  {
+    "id": "武阳春雨-무양춘우",
+    "name": "무양춘우",
+    "hanzi": "武阳春雨",
+    "region": "저장성 우이",
+    "province": "저장성",
+    "type": "녹차",
+    "famousArea": "우양산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "성형",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EB%AC%B4%EC%96%91%EC%B6%98%EC%9A%B0%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EB%AC%B4%EC%96%91%EC%B6%98%EC%9A%B0%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "우양산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9A%B0%EC%96%91%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%AC%B4%EC%96%91%EC%B6%98%EC%9A%B0%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "75-85°C",
+      "time": "1.5-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "끓는 물은 한 김 식혀 쓰고, 잎이 섬세하면 우림 시간을 짧게 잡습니다."
+    },
+    "notes": [
+      "봄풀향",
+      "꽃향",
+      "맑은 단맛"
+    ],
+    "summary": "저장성 우이의 녹차 계열 차로, 봄풀향과 꽃향이 특징입니다."
+  },
+  {
+    "id": "沙县工夫-사현공부",
+    "name": "사현공부",
+    "hanzi": "沙县工夫",
+    "region": "푸젠성 싼밍 사현",
+    "province": "푸젠성",
+    "type": "홍차",
+    "famousArea": "사현",
+    "process": [
+      "채엽",
+      "위조",
+      "유념",
+      "발효",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%82%AC%ED%98%84%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%82%AC%ED%98%84%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "사현 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%82%AC%ED%98%84%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%82%AC%ED%98%84%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "90-95°C",
+      "time": "3-4분",
+      "ratio": "차 3g / 물 200ml",
+      "tips": "향을 선명하게 보려면 스트레이트로 먼저 마시고, 떫음이 강하면 시간을 줄입니다."
+    },
+    "notes": [
+      "달큰함",
+      "과일향",
+      "부드러운 몰트"
+    ],
+    "summary": "푸젠성 싼밍 사현의 홍차 계열 차로, 달큰함과 과일향이 특징입니다."
+  },
+  {
+    "id": "祁门红茶-기문홍차",
+    "name": "기문홍차",
+    "hanzi": "祁门红茶",
+    "region": "안후이성 치먼",
+    "province": "안후이성",
+    "type": "홍차",
+    "famousArea": "치먼현",
+    "process": [
+      "채엽",
+      "위조",
+      "유념",
+      "발효",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EA%B8%B0%EB%AC%B8%ED%99%8D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EA%B8%B0%EB%AC%B8%ED%99%8D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "치먼현 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%B9%98%EB%A8%BC%ED%98%84%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EA%B8%B0%EB%AC%B8%ED%99%8D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "90-95°C",
+      "time": "3-4분",
+      "ratio": "차 3g / 물 200ml",
+      "tips": "향을 선명하게 보려면 스트레이트로 먼저 마시고, 떫음이 강하면 시간을 줄입니다."
+    },
+    "notes": [
+      "꿀향",
+      "말린 과일",
+      "은은한 스모키함"
+    ],
+    "summary": "안후이성 치먼의 홍차 계열 차로, 꿀향과 말린 과일이 특징입니다."
+  },
+  {
+    "id": "滇红工夫-전홍공부",
+    "name": "전홍공부",
+    "hanzi": "滇红工夫",
+    "region": "윈난성 펑칭",
+    "province": "윈난성",
+    "type": "홍차",
+    "famousArea": "펑칭",
+    "process": [
+      "채엽",
+      "위조",
+      "유념",
+      "발효",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%A0%84%ED%99%8D%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%A0%84%ED%99%8D%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "펑칭 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%8E%91%EC%B9%AD%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%A0%84%ED%99%8D%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "90-95°C",
+      "time": "3-4분",
+      "ratio": "차 3g / 물 200ml",
+      "tips": "향을 선명하게 보려면 스트레이트로 먼저 마시고, 떫음이 강하면 시간을 줄입니다."
+    },
+    "notes": [
+      "몰트",
+      "꿀향",
+      "묵직한 단맛"
+    ],
+    "summary": "윈난성 펑칭의 홍차 계열 차로, 몰트과 꿀향이 특징입니다."
+  },
+  {
+    "id": "正山小种-정산소종",
+    "name": "정산소종",
+    "hanzi": "正山小种",
+    "region": "푸젠성 우이산",
+    "province": "푸젠성",
+    "type": "홍차",
+    "famousArea": "통무관",
+    "process": [
+      "채엽",
+      "위조",
+      "유념",
+      "발효",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%A0%95%EC%82%B0%EC%86%8C%EC%A2%85%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%A0%95%EC%82%B0%EC%86%8C%EC%A2%85%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "통무관 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%86%B5%EB%AC%B4%EA%B4%80%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%A0%95%EC%82%B0%EC%86%8C%EC%A2%85%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "90-95°C",
+      "time": "3-4분",
+      "ratio": "차 3g / 물 200ml",
+      "tips": "향을 선명하게 보려면 스트레이트로 먼저 마시고, 떫음이 강하면 시간을 줄입니다."
+    },
+    "notes": [
+      "송연향",
+      "용안향",
+      "달큰함"
+    ],
+    "summary": "푸젠성 우이산의 홍차 계열 차로, 송연향과 용안향이 특징입니다."
+  },
+  {
+    "id": "金骏眉-금준미",
+    "name": "금준미",
+    "hanzi": "金骏眉",
+    "region": "푸젠성 우이산",
+    "province": "푸젠성",
+    "type": "홍차",
+    "famousArea": "통무관",
+    "process": [
+      "채엽",
+      "위조",
+      "유념",
+      "발효",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EA%B8%88%EC%A4%80%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EA%B8%88%EC%A4%80%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "통무관 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%86%B5%EB%AC%B4%EA%B4%80%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EA%B8%88%EC%A4%80%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "90-95°C",
+      "time": "3-4분",
+      "ratio": "차 3g / 물 200ml",
+      "tips": "향을 선명하게 보려면 스트레이트로 먼저 마시고, 떫음이 강하면 시간을 줄입니다."
+    },
+    "notes": [
+      "꿀향",
+      "고구마향",
+      "섬세한 단맛"
+    ],
+    "summary": "푸젠성 우이산의 홍차 계열 차로, 꿀향과 고구마향이 특징입니다."
+  },
+  {
+    "id": "银骏眉-은준미",
+    "name": "은준미",
+    "hanzi": "银骏眉",
+    "region": "푸젠성 우이산",
+    "province": "푸젠성",
+    "type": "홍차",
+    "famousArea": "통무관",
+    "process": [
+      "채엽",
+      "위조",
+      "유념",
+      "발효",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%9D%80%EC%A4%80%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%9D%80%EC%A4%80%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "통무관 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%86%B5%EB%AC%B4%EA%B4%80%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%9D%80%EC%A4%80%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "90-95°C",
+      "time": "3-4분",
+      "ratio": "차 3g / 물 200ml",
+      "tips": "향을 선명하게 보려면 스트레이트로 먼저 마시고, 떫음이 강하면 시간을 줄입니다."
+    },
+    "notes": [
+      "꽃향",
+      "꿀향",
+      "맑은 몰트"
+    ],
+    "summary": "푸젠성 우이산의 홍차 계열 차로, 꽃향과 꿀향이 특징입니다."
+  },
+  {
+    "id": "坦洋工夫-탄양공부",
+    "name": "탄양공부",
+    "hanzi": "坦洋工夫",
+    "region": "푸젠성 푸안",
+    "province": "푸젠성",
+    "type": "홍차",
+    "famousArea": "탄양",
+    "process": [
+      "채엽",
+      "위조",
+      "유념",
+      "발효",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%ED%83%84%EC%96%91%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%ED%83%84%EC%96%91%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "탄양 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%83%84%EC%96%91%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%ED%83%84%EC%96%91%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "90-95°C",
+      "time": "3-4분",
+      "ratio": "차 3g / 물 200ml",
+      "tips": "향을 선명하게 보려면 스트레이트로 먼저 마시고, 떫음이 강하면 시간을 줄입니다."
+    },
+    "notes": [
+      "말린 과일",
+      "몰트",
+      "부드러움"
+    ],
+    "summary": "푸젠성 푸안의 홍차 계열 차로, 말린 과일과 몰트이 특징입니다."
+  },
+  {
+    "id": "政和工夫-정화공부",
+    "name": "정화공부",
+    "hanzi": "政和工夫",
+    "region": "푸젠성 정허",
+    "province": "푸젠성",
+    "type": "홍차",
+    "famousArea": "정허",
+    "process": [
+      "채엽",
+      "위조",
+      "유념",
+      "발효",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%A0%95%ED%99%94%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%A0%95%ED%99%94%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "정허 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%A0%95%ED%97%88%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%A0%95%ED%99%94%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "90-95°C",
+      "time": "3-4분",
+      "ratio": "차 3g / 물 200ml",
+      "tips": "향을 선명하게 보려면 스트레이트로 먼저 마시고, 떫음이 강하면 시간을 줄입니다."
+    },
+    "notes": [
+      "꿀향",
+      "고구마향",
+      "묵직함"
+    ],
+    "summary": "푸젠성 정허의 홍차 계열 차로, 꿀향과 고구마향이 특징입니다."
+  },
+  {
+    "id": "白琳工夫-백림공부",
+    "name": "백림공부",
+    "hanzi": "白琳工夫",
+    "region": "푸젠성 푸딩",
+    "province": "푸젠성",
+    "type": "홍차",
+    "famousArea": "백림",
+    "process": [
+      "채엽",
+      "위조",
+      "유념",
+      "발효",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EB%B0%B1%EB%A6%BC%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EB%B0%B1%EB%A6%BC%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "백림 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%B0%B1%EB%A6%BC%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%B0%B1%EB%A6%BC%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "90-95°C",
+      "time": "3-4분",
+      "ratio": "차 3g / 물 200ml",
+      "tips": "향을 선명하게 보려면 스트레이트로 먼저 마시고, 떫음이 강하면 시간을 줄입니다."
+    },
+    "notes": [
+      "달콤한 몰트",
+      "꽃향",
+      "긴 여운"
+    ],
+    "summary": "푸젠성 푸딩의 홍차 계열 차로, 달콤한 몰트과 꽃향이 특징입니다."
+  },
+  {
+    "id": "英德红茶-영덕홍차",
+    "name": "영덕홍차",
+    "hanzi": "英德红茶",
+    "region": "광둥성 잉더",
+    "province": "광둥성",
+    "type": "홍차",
+    "famousArea": "잉더",
+    "process": [
+      "채엽",
+      "위조",
+      "유념",
+      "발효",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%98%81%EB%8D%95%ED%99%8D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%98%81%EB%8D%95%ED%99%8D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "잉더 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9E%89%EB%8D%94%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%98%81%EB%8D%95%ED%99%8D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "90-95°C",
+      "time": "3-4분",
+      "ratio": "차 3g / 물 200ml",
+      "tips": "향을 선명하게 보려면 스트레이트로 먼저 마시고, 떫음이 강하면 시간을 줄입니다."
+    },
+    "notes": [
+      "몰트",
+      "과일향",
+      "진한 바디"
+    ],
+    "summary": "광둥성 잉더의 홍차 계열 차로, 몰트과 과일향이 특징입니다."
+  },
+  {
+    "id": "九曲红梅-구곡홍매",
+    "name": "구곡홍매",
+    "hanzi": "九曲红梅",
+    "region": "저장성 항저우",
+    "province": "저장성",
+    "type": "홍차",
+    "famousArea": "서호 주변",
+    "process": [
+      "채엽",
+      "위조",
+      "유념",
+      "발효",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EA%B5%AC%EA%B3%A1%ED%99%8D%EB%A7%A4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EA%B5%AC%EA%B3%A1%ED%99%8D%EB%A7%A4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "서호 주변 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%84%9C%ED%98%B8%20%EC%A3%BC%EB%B3%80%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EA%B5%AC%EA%B3%A1%ED%99%8D%EB%A7%A4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "90-95°C",
+      "time": "3-4분",
+      "ratio": "차 3g / 물 200ml",
+      "tips": "향을 선명하게 보려면 스트레이트로 먼저 마시고, 떫음이 강하면 시간을 줄입니다."
+    },
+    "notes": [
+      "매화향",
+      "달큰함",
+      "부드러운 홍탕"
+    ],
+    "summary": "저장성 항저우의 홍차 계열 차로, 매화향과 달큰함이 특징입니다."
+  },
+  {
+    "id": "宜兴红茶-의흥홍차",
+    "name": "의흥홍차",
+    "hanzi": "宜兴红茶",
+    "region": "장쑤성 이싱",
+    "province": "장쑤성",
+    "type": "홍차",
+    "famousArea": "이싱",
+    "process": [
+      "채엽",
+      "위조",
+      "유념",
+      "발효",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%9D%98%ED%9D%A5%ED%99%8D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%9D%98%ED%9D%A5%ED%99%8D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "이싱 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9D%B4%EC%8B%B1%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%9D%98%ED%9D%A5%ED%99%8D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "90-95°C",
+      "time": "3-4분",
+      "ratio": "차 3g / 물 200ml",
+      "tips": "향을 선명하게 보려면 스트레이트로 먼저 마시고, 떫음이 강하면 시간을 줄입니다."
+    },
+    "notes": [
+      "견과향",
+      "몰트",
+      "부드러움"
+    ],
+    "summary": "장쑤성 이싱의 홍차 계열 차로, 견과향과 몰트이 특징입니다."
+  },
+  {
+    "id": "湖红工夫-호홍공부",
+    "name": "호홍공부",
+    "hanzi": "湖红工夫",
+    "region": "후난성 안화 일대",
+    "province": "후난성",
+    "type": "홍차",
+    "famousArea": "후난 중부",
+    "process": [
+      "채엽",
+      "위조",
+      "유념",
+      "발효",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%ED%98%B8%ED%99%8D%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%ED%98%B8%ED%99%8D%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "후난 중부 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%9B%84%EB%82%9C%20%EC%A4%91%EB%B6%80%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%ED%98%B8%ED%99%8D%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "90-95°C",
+      "time": "3-4분",
+      "ratio": "차 3g / 물 200ml",
+      "tips": "향을 선명하게 보려면 스트레이트로 먼저 마시고, 떫음이 강하면 시간을 줄입니다."
+    },
+    "notes": [
+      "고구마향",
+      "몰트",
+      "맑은 단맛"
+    ],
+    "summary": "후난성 안화 일대의 홍차 계열 차로, 고구마향과 몰트이 특징입니다."
+  },
+  {
+    "id": "川红工夫-천홍공부",
+    "name": "천홍공부",
+    "hanzi": "川红工夫",
+    "region": "쓰촨성 이빈",
+    "province": "쓰촨성",
+    "type": "홍차",
+    "famousArea": "이빈",
+    "process": [
+      "채엽",
+      "위조",
+      "유념",
+      "발효",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%B2%9C%ED%99%8D%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%B2%9C%ED%99%8D%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "이빈 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9D%B4%EB%B9%88%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%B2%9C%ED%99%8D%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "90-95°C",
+      "time": "3-4분",
+      "ratio": "차 3g / 물 200ml",
+      "tips": "향을 선명하게 보려면 스트레이트로 먼저 마시고, 떫음이 강하면 시간을 줄입니다."
+    },
+    "notes": [
+      "꿀향",
+      "몰트",
+      "부드러운 단맛"
+    ],
+    "summary": "쓰촨성 이빈의 홍차 계열 차로, 꿀향과 몰트이 특징입니다."
+  },
+  {
+    "id": "越红工夫-월홍공부",
+    "name": "월홍공부",
+    "hanzi": "越红工夫",
+    "region": "저장성 사오싱",
+    "province": "저장성",
+    "type": "홍차",
+    "famousArea": "사오싱",
+    "process": [
+      "채엽",
+      "위조",
+      "유념",
+      "발효",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%9B%94%ED%99%8D%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%9B%94%ED%99%8D%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "사오싱 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%82%AC%EC%98%A4%EC%8B%B1%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%9B%94%ED%99%8D%EA%B3%B5%EB%B6%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "90-95°C",
+      "time": "3-4분",
+      "ratio": "차 3g / 물 200ml",
+      "tips": "향을 선명하게 보려면 스트레이트로 먼저 마시고, 떫음이 강하면 시간을 줄입니다."
+    },
+    "notes": [
+      "과일향",
+      "은은한 산미",
+      "깔끔함"
+    ],
+    "summary": "저장성 사오싱의 홍차 계열 차로, 과일향과 은은한 산미이 특징입니다."
+  },
+  {
+    "id": "小种红茶-소종홍차",
+    "name": "소종홍차",
+    "hanzi": "小种红茶",
+    "region": "푸젠성 우이산",
+    "province": "푸젠성",
+    "type": "홍차",
+    "famousArea": "우이산",
+    "process": [
+      "채엽",
+      "위조",
+      "유념",
+      "발효",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%86%8C%EC%A2%85%ED%99%8D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%86%8C%EC%A2%85%ED%99%8D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "우이산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9A%B0%EC%9D%B4%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%86%8C%EC%A2%85%ED%99%8D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "90-95°C",
+      "time": "3-4분",
+      "ratio": "차 3g / 물 200ml",
+      "tips": "향을 선명하게 보려면 스트레이트로 먼저 마시고, 떫음이 강하면 시간을 줄입니다."
+    },
+    "notes": [
+      "훈연향",
+      "용안향",
+      "묵직함"
+    ],
+    "summary": "푸젠성 우이산의 홍차 계열 차로, 훈연향과 용안향이 특징입니다."
+  },
+  {
+    "id": "红香螺-홍향라",
+    "name": "홍향라",
+    "hanzi": "红香螺",
+    "region": "안후이성 황산",
+    "province": "안후이성",
+    "type": "홍차",
+    "famousArea": "황산",
+    "process": [
+      "채엽",
+      "위조",
+      "유념",
+      "발효",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%ED%99%8D%ED%96%A5%EB%9D%BC%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%ED%99%8D%ED%96%A5%EB%9D%BC%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "황산 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%99%A9%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%ED%99%8D%ED%96%A5%EB%9D%BC%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "90-95°C",
+      "time": "3-4분",
+      "ratio": "차 3g / 물 200ml",
+      "tips": "향을 선명하게 보려면 스트레이트로 먼저 마시고, 떫음이 강하면 시간을 줄입니다."
+    },
+    "notes": [
+      "꿀향",
+      "나선형 잎",
+      "달큰함"
+    ],
+    "summary": "안후이성 황산의 홍차 계열 차로, 꿀향과 나선형 잎이 특징입니다."
+  },
+  {
+    "id": "滇红金针-전홍금침",
+    "name": "전홍금침",
+    "hanzi": "滇红金针",
+    "region": "윈난성 린창",
+    "province": "윈난성",
+    "type": "홍차",
+    "famousArea": "린창",
+    "process": [
+      "채엽",
+      "위조",
+      "유념",
+      "발효",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%A0%84%ED%99%8D%EA%B8%88%EC%B9%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%A0%84%ED%99%8D%EA%B8%88%EC%B9%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "린창 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%A6%B0%EC%B0%BD%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%A0%84%ED%99%8D%EA%B8%88%EC%B9%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "90-95°C",
+      "time": "3-4분",
+      "ratio": "차 3g / 물 200ml",
+      "tips": "향을 선명하게 보려면 스트레이트로 먼저 마시고, 떫음이 강하면 시간을 줄입니다."
+    },
+    "notes": [
+      "금아",
+      "꿀향",
+      "몰트"
+    ],
+    "summary": "윈난성 린창의 홍차 계열 차로, 금아과 꿀향이 특징입니다."
+  },
+  {
+    "id": "滇红松针-전홍송침",
+    "name": "전홍송침",
+    "hanzi": "滇红松针",
+    "region": "윈난성 바오산",
+    "province": "윈난성",
+    "type": "홍차",
+    "famousArea": "바오산",
+    "process": [
+      "채엽",
+      "위조",
+      "유념",
+      "발효",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%A0%84%ED%99%8D%EC%86%A1%EC%B9%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%A0%84%ED%99%8D%EC%86%A1%EC%B9%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "바오산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%B0%94%EC%98%A4%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%A0%84%ED%99%8D%EC%86%A1%EC%B9%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "90-95°C",
+      "time": "3-4분",
+      "ratio": "차 3g / 물 200ml",
+      "tips": "향을 선명하게 보려면 스트레이트로 먼저 마시고, 떫음이 강하면 시간을 줄입니다."
+    },
+    "notes": [
+      "솔잎 모양",
+      "고구마향",
+      "달콤함"
+    ],
+    "summary": "윈난성 바오산의 홍차 계열 차로, 솔잎 모양과 고구마향이 특징입니다."
+  },
+  {
+    "id": "白毫银针-백호은침",
+    "name": "백호은침",
+    "hanzi": "白毫银针",
+    "region": "푸젠성 푸딩",
+    "province": "푸젠성",
+    "type": "백차",
+    "famousArea": "푸딩",
+    "process": [
+      "채엽",
+      "위조",
+      "자연 건조",
+      "저온 건조"
+    ],
+    "brands": [
+      {
+        "name": "품품향",
+        "url": "https://www.google.com/search?q=%ED%92%88%ED%92%88%ED%96%A5%20%EB%B0%B1%ED%98%B8%EC%9D%80%EC%B9%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "녹설아",
+        "url": "https://www.google.com/search?q=%EB%85%B9%EC%84%A4%EC%95%84%20%EB%B0%B1%ED%98%B8%EC%9D%80%EC%B9%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "푸딩 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%91%B8%EB%94%A9%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%B0%B1%ED%98%B8%EC%9D%80%EC%B9%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "85-95°C",
+      "time": "3-5분",
+      "ratio": "차 4g / 물 180ml",
+      "tips": "부드러운 단맛을 보려면 낮은 온도에서 길게, 숙성 백차는 높은 온도로 우려도 좋습니다."
+    },
+    "notes": [
+      "꿀향",
+      "솜털감",
+      "맑은 단맛"
+    ],
+    "summary": "푸젠성 푸딩의 백차 계열 차로, 꿀향과 솜털감이 특징입니다."
+  },
+  {
+    "id": "白牡丹-백모단",
+    "name": "백모단",
+    "hanzi": "白牡丹",
+    "region": "푸젠성 푸딩",
+    "province": "푸젠성",
+    "type": "백차",
+    "famousArea": "푸딩",
+    "process": [
+      "채엽",
+      "위조",
+      "자연 건조",
+      "저온 건조"
+    ],
+    "brands": [
+      {
+        "name": "품품향",
+        "url": "https://www.google.com/search?q=%ED%92%88%ED%92%88%ED%96%A5%20%EB%B0%B1%EB%AA%A8%EB%8B%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "녹설아",
+        "url": "https://www.google.com/search?q=%EB%85%B9%EC%84%A4%EC%95%84%20%EB%B0%B1%EB%AA%A8%EB%8B%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "푸딩 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%91%B8%EB%94%A9%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%B0%B1%EB%AA%A8%EB%8B%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "85-95°C",
+      "time": "3-5분",
+      "ratio": "차 4g / 물 180ml",
+      "tips": "부드러운 단맛을 보려면 낮은 온도에서 길게, 숙성 백차는 높은 온도로 우려도 좋습니다."
+    },
+    "notes": [
+      "꽃향",
+      "부드러움",
+      "은은한 단맛"
+    ],
+    "summary": "푸젠성 푸딩의 백차 계열 차로, 꽃향과 부드러움이 특징입니다."
+  },
+  {
+    "id": "寿眉-수미",
+    "name": "수미",
+    "hanzi": "寿眉",
+    "region": "푸젠성 푸딩",
+    "province": "푸젠성",
+    "type": "백차",
+    "famousArea": "푸딩",
+    "process": [
+      "채엽",
+      "위조",
+      "자연 건조",
+      "저온 건조"
+    ],
+    "brands": [
+      {
+        "name": "품품향",
+        "url": "https://www.google.com/search?q=%ED%92%88%ED%92%88%ED%96%A5%20%EC%88%98%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "녹설아",
+        "url": "https://www.google.com/search?q=%EB%85%B9%EC%84%A4%EC%95%84%20%EC%88%98%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "푸딩 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%91%B8%EB%94%A9%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%88%98%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "85-95°C",
+      "time": "3-5분",
+      "ratio": "차 4g / 물 180ml",
+      "tips": "부드러운 단맛을 보려면 낮은 온도에서 길게, 숙성 백차는 높은 온도로 우려도 좋습니다."
+    },
+    "notes": [
+      "대추향",
+      "약재향",
+      "부드러운 단맛"
+    ],
+    "summary": "푸젠성 푸딩의 백차 계열 차로, 대추향과 약재향이 특징입니다."
+  },
+  {
+    "id": "贡眉-공미",
+    "name": "공미",
+    "hanzi": "贡眉",
+    "region": "푸젠성 정허",
+    "province": "푸젠성",
+    "type": "백차",
+    "famousArea": "정허",
+    "process": [
+      "채엽",
+      "위조",
+      "자연 건조",
+      "저온 건조"
+    ],
+    "brands": [
+      {
+        "name": "품품향",
+        "url": "https://www.google.com/search?q=%ED%92%88%ED%92%88%ED%96%A5%20%EA%B3%B5%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "녹설아",
+        "url": "https://www.google.com/search?q=%EB%85%B9%EC%84%A4%EC%95%84%20%EA%B3%B5%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "정허 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%A0%95%ED%97%88%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EA%B3%B5%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "85-95°C",
+      "time": "3-5분",
+      "ratio": "차 4g / 물 180ml",
+      "tips": "부드러운 단맛을 보려면 낮은 온도에서 길게, 숙성 백차는 높은 온도로 우려도 좋습니다."
+    },
+    "notes": [
+      "대추향",
+      "꽃향",
+      "순한 바디"
+    ],
+    "summary": "푸젠성 정허의 백차 계열 차로, 대추향과 꽃향이 특징입니다."
+  },
+  {
+    "id": "新工艺白茶-신공예백차",
+    "name": "신공예백차",
+    "hanzi": "新工艺白茶",
+    "region": "푸젠성 푸딩",
+    "province": "푸젠성",
+    "type": "백차",
+    "famousArea": "푸딩",
+    "process": [
+      "채엽",
+      "위조",
+      "자연 건조",
+      "저온 건조"
+    ],
+    "brands": [
+      {
+        "name": "품품향",
+        "url": "https://www.google.com/search?q=%ED%92%88%ED%92%88%ED%96%A5%20%EC%8B%A0%EA%B3%B5%EC%98%88%EB%B0%B1%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "녹설아",
+        "url": "https://www.google.com/search?q=%EB%85%B9%EC%84%A4%EC%95%84%20%EC%8B%A0%EA%B3%B5%EC%98%88%EB%B0%B1%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "푸딩 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%91%B8%EB%94%A9%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%8B%A0%EA%B3%B5%EC%98%88%EB%B0%B1%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "85-95°C",
+      "time": "3-5분",
+      "ratio": "차 4g / 물 180ml",
+      "tips": "부드러운 단맛을 보려면 낮은 온도에서 길게, 숙성 백차는 높은 온도로 우려도 좋습니다."
+    },
+    "notes": [
+      "부드러운 산화향",
+      "꽃향",
+      "달큰함"
+    ],
+    "summary": "푸젠성 푸딩의 백차 계열 차로, 부드러운 산화향과 꽃향이 특징입니다."
+  },
+  {
+    "id": "月光白-월광백",
+    "name": "월광백",
+    "hanzi": "月光白",
+    "region": "윈난성 징구",
+    "province": "윈난성",
+    "type": "백차",
+    "famousArea": "징구",
+    "process": [
+      "채엽",
+      "위조",
+      "자연 건조",
+      "저온 건조"
+    ],
+    "brands": [
+      {
+        "name": "품품향",
+        "url": "https://www.google.com/search?q=%ED%92%88%ED%92%88%ED%96%A5%20%EC%9B%94%EA%B4%91%EB%B0%B1%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "녹설아",
+        "url": "https://www.google.com/search?q=%EB%85%B9%EC%84%A4%EC%95%84%20%EC%9B%94%EA%B4%91%EB%B0%B1%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "징구 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%A7%95%EA%B5%AC%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%9B%94%EA%B4%91%EB%B0%B1%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "85-95°C",
+      "time": "3-5분",
+      "ratio": "차 4g / 물 180ml",
+      "tips": "부드러운 단맛을 보려면 낮은 온도에서 길게, 숙성 백차는 높은 온도로 우려도 좋습니다."
+    },
+    "notes": [
+      "꿀향",
+      "달빛 같은 잎색",
+      "부드러움"
+    ],
+    "summary": "윈난성 징구의 백차 계열 차로, 꿀향과 달빛 같은 잎색이 특징입니다."
+  },
+  {
+    "id": "政和白牡丹-정화백모단",
+    "name": "정화백모단",
+    "hanzi": "政和白牡丹",
+    "region": "푸젠성 정허",
+    "province": "푸젠성",
+    "type": "백차",
+    "famousArea": "정허",
+    "process": [
+      "채엽",
+      "위조",
+      "자연 건조",
+      "저온 건조"
+    ],
+    "brands": [
+      {
+        "name": "품품향",
+        "url": "https://www.google.com/search?q=%ED%92%88%ED%92%88%ED%96%A5%20%EC%A0%95%ED%99%94%EB%B0%B1%EB%AA%A8%EB%8B%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "녹설아",
+        "url": "https://www.google.com/search?q=%EB%85%B9%EC%84%A4%EC%95%84%20%EC%A0%95%ED%99%94%EB%B0%B1%EB%AA%A8%EB%8B%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "정허 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%A0%95%ED%97%88%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%A0%95%ED%99%94%EB%B0%B1%EB%AA%A8%EB%8B%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "85-95°C",
+      "time": "3-5분",
+      "ratio": "차 4g / 물 180ml",
+      "tips": "부드러운 단맛을 보려면 낮은 온도에서 길게, 숙성 백차는 높은 온도로 우려도 좋습니다."
+    },
+    "notes": [
+      "꽃향",
+      "곡물향",
+      "묵직한 단맛"
+    ],
+    "summary": "푸젠성 정허의 백차 계열 차로, 꽃향과 곡물향이 특징입니다."
+  },
+  {
+    "id": "建阳寿眉-건양수미",
+    "name": "건양수미",
+    "hanzi": "建阳寿眉",
+    "region": "푸젠성 젠양",
+    "province": "푸젠성",
+    "type": "백차",
+    "famousArea": "젠양",
+    "process": [
+      "채엽",
+      "위조",
+      "자연 건조",
+      "저온 건조"
+    ],
+    "brands": [
+      {
+        "name": "품품향",
+        "url": "https://www.google.com/search?q=%ED%92%88%ED%92%88%ED%96%A5%20%EA%B1%B4%EC%96%91%EC%88%98%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "녹설아",
+        "url": "https://www.google.com/search?q=%EB%85%B9%EC%84%A4%EC%95%84%20%EA%B1%B4%EC%96%91%EC%88%98%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "젠양 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%A0%A0%EC%96%91%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EA%B1%B4%EC%96%91%EC%88%98%EB%AF%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "85-95°C",
+      "time": "3-5분",
+      "ratio": "차 4g / 물 180ml",
+      "tips": "부드러운 단맛을 보려면 낮은 온도에서 길게, 숙성 백차는 높은 온도로 우려도 좋습니다."
+    },
+    "notes": [
+      "대추향",
+      "나무향",
+      "순함"
+    ],
+    "summary": "푸젠성 젠양의 백차 계열 차로, 대추향과 나무향이 특징입니다."
+  },
+  {
+    "id": "君山银针-군산은침",
+    "name": "군산은침",
+    "hanzi": "君山银针",
+    "region": "후난성 악양",
+    "province": "후난성",
+    "type": "황차",
+    "famousArea": "동정호 군산",
+    "process": [
+      "채엽",
+      "살청",
+      "민황",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EA%B5%B0%EC%82%B0%EC%9D%80%EC%B9%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "군산",
+        "url": "https://www.google.com/search?q=%EA%B5%B0%EC%82%B0%20%EA%B5%B0%EC%82%B0%EC%9D%80%EC%B9%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "동정호 군산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%8F%99%EC%A0%95%ED%98%B8%20%EA%B5%B0%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EA%B5%B0%EC%82%B0%EC%9D%80%EC%B9%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "80-85°C",
+      "time": "2-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "황차는 순한 곡물향이 장점이므로 과하게 뜨거운 물은 피합니다."
+    },
+    "notes": [
+      "곡물향",
+      "부드러운 단맛",
+      "맑은 향"
+    ],
+    "summary": "후난성 악양의 황차 계열 차로, 곡물향과 부드러운 단맛이 특징입니다."
+  },
+  {
+    "id": "蒙顶黄芽-몽정황아",
+    "name": "몽정황아",
+    "hanzi": "蒙顶黄芽",
+    "region": "쓰촨성 야안",
+    "province": "쓰촨성",
+    "type": "황차",
+    "famousArea": "몽정산",
+    "process": [
+      "채엽",
+      "살청",
+      "민황",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EB%AA%BD%EC%A0%95%ED%99%A9%EC%95%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "군산",
+        "url": "https://www.google.com/search?q=%EA%B5%B0%EC%82%B0%20%EB%AA%BD%EC%A0%95%ED%99%A9%EC%95%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "몽정산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%AA%BD%EC%A0%95%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%AA%BD%EC%A0%95%ED%99%A9%EC%95%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "80-85°C",
+      "time": "2-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "황차는 순한 곡물향이 장점이므로 과하게 뜨거운 물은 피합니다."
+    },
+    "notes": [
+      "곡물향",
+      "달큰함",
+      "순한 여운"
+    ],
+    "summary": "쓰촨성 야안의 황차 계열 차로, 곡물향과 달큰함이 특징입니다."
+  },
+  {
+    "id": "霍山黄芽-곽산황아",
+    "name": "곽산황아",
+    "hanzi": "霍山黄芽",
+    "region": "안후이성 훠산",
+    "province": "안후이성",
+    "type": "황차",
+    "famousArea": "훠산",
+    "process": [
+      "채엽",
+      "살청",
+      "민황",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EA%B3%BD%EC%82%B0%ED%99%A9%EC%95%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "군산",
+        "url": "https://www.google.com/search?q=%EA%B5%B0%EC%82%B0%20%EA%B3%BD%EC%82%B0%ED%99%A9%EC%95%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "훠산 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%9B%A0%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EA%B3%BD%EC%82%B0%ED%99%A9%EC%95%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "80-85°C",
+      "time": "2-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "황차는 순한 곡물향이 장점이므로 과하게 뜨거운 물은 피합니다."
+    },
+    "notes": [
+      "밤향",
+      "곡물향",
+      "부드러움"
+    ],
+    "summary": "안후이성 훠산의 황차 계열 차로, 밤향과 곡물향이 특징입니다."
+  },
+  {
+    "id": "北港毛尖-북항모첨",
+    "name": "북항모첨",
+    "hanzi": "北港毛尖",
+    "region": "후난성 악양",
+    "province": "후난성",
+    "type": "황차",
+    "famousArea": "북항",
+    "process": [
+      "채엽",
+      "살청",
+      "민황",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EB%B6%81%ED%95%AD%EB%AA%A8%EC%B2%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "군산",
+        "url": "https://www.google.com/search?q=%EA%B5%B0%EC%82%B0%20%EB%B6%81%ED%95%AD%EB%AA%A8%EC%B2%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "북항 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%B6%81%ED%95%AD%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%B6%81%ED%95%AD%EB%AA%A8%EC%B2%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "80-85°C",
+      "time": "2-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "황차는 순한 곡물향이 장점이므로 과하게 뜨거운 물은 피합니다."
+    },
+    "notes": [
+      "곡물향",
+      "청향",
+      "순함"
+    ],
+    "summary": "후난성 악양의 황차 계열 차로, 곡물향과 청향이 특징입니다."
+  },
+  {
+    "id": "温州黄汤-원주황탕",
+    "name": "원주황탕",
+    "hanzi": "温州黄汤",
+    "region": "저장성 원저우",
+    "province": "저장성",
+    "type": "황차",
+    "famousArea": "원저우",
+    "process": [
+      "채엽",
+      "살청",
+      "민황",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%9B%90%EC%A3%BC%ED%99%A9%ED%83%95%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "군산",
+        "url": "https://www.google.com/search?q=%EA%B5%B0%EC%82%B0%20%EC%9B%90%EC%A3%BC%ED%99%A9%ED%83%95%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "원저우 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9B%90%EC%A0%80%EC%9A%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%9B%90%EC%A3%BC%ED%99%A9%ED%83%95%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "80-85°C",
+      "time": "2-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "황차는 순한 곡물향이 장점이므로 과하게 뜨거운 물은 피합니다."
+    },
+    "notes": [
+      "달큰함",
+      "곡물향",
+      "연한 산미"
+    ],
+    "summary": "저장성 원저우의 황차 계열 차로, 달큰함과 곡물향이 특징입니다."
+  },
+  {
+    "id": "鹿苑毛尖-녹원모첨",
+    "name": "녹원모첨",
+    "hanzi": "鹿苑毛尖",
+    "region": "후베이성 위안안",
+    "province": "후베이성",
+    "type": "황차",
+    "famousArea": "녹원",
+    "process": [
+      "채엽",
+      "살청",
+      "민황",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EB%85%B9%EC%9B%90%EB%AA%A8%EC%B2%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "군산",
+        "url": "https://www.google.com/search?q=%EA%B5%B0%EC%82%B0%20%EB%85%B9%EC%9B%90%EB%AA%A8%EC%B2%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "녹원 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%85%B9%EC%9B%90%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%85%B9%EC%9B%90%EB%AA%A8%EC%B2%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "80-85°C",
+      "time": "2-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "황차는 순한 곡물향이 장점이므로 과하게 뜨거운 물은 피합니다."
+    },
+    "notes": [
+      "구수함",
+      "부드러운 단맛",
+      "은은함"
+    ],
+    "summary": "후베이성 위안안의 황차 계열 차로, 구수함과 부드러운 단맛이 특징입니다."
+  },
+  {
+    "id": "沩江白毛尖-위강백모첨",
+    "name": "위강백모첨",
+    "hanzi": "沩江白毛尖",
+    "region": "후난성 닝샹",
+    "province": "후난성",
+    "type": "황차",
+    "famousArea": "위강",
+    "process": [
+      "채엽",
+      "살청",
+      "민황",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%9C%84%EA%B0%95%EB%B0%B1%EB%AA%A8%EC%B2%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "군산",
+        "url": "https://www.google.com/search?q=%EA%B5%B0%EC%82%B0%20%EC%9C%84%EA%B0%95%EB%B0%B1%EB%AA%A8%EC%B2%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "위강 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9C%84%EA%B0%95%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%9C%84%EA%B0%95%EB%B0%B1%EB%AA%A8%EC%B2%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "80-85°C",
+      "time": "2-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "황차는 순한 곡물향이 장점이므로 과하게 뜨거운 물은 피합니다."
+    },
+    "notes": [
+      "곡물향",
+      "풋향",
+      "순한 여운"
+    ],
+    "summary": "후난성 닝샹의 황차 계열 차로, 곡물향과 풋향이 특징입니다."
+  },
+  {
+    "id": "皖西黄大茶-완서황대차",
+    "name": "완서황대차",
+    "hanzi": "皖西黄大茶",
+    "region": "안후이성 서부",
+    "province": "안후이성",
+    "type": "황차",
+    "famousArea": "완서",
+    "process": [
+      "채엽",
+      "살청",
+      "민황",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%99%84%EC%84%9C%ED%99%A9%EB%8C%80%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "군산",
+        "url": "https://www.google.com/search?q=%EA%B5%B0%EC%82%B0%20%EC%99%84%EC%84%9C%ED%99%A9%EB%8C%80%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "완서 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%99%84%EC%84%9C%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%99%84%EC%84%9C%ED%99%A9%EB%8C%80%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "80-85°C",
+      "time": "2-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "황차는 순한 곡물향이 장점이므로 과하게 뜨거운 물은 피합니다."
+    },
+    "notes": [
+      "구운 곡물",
+      "큰 잎의 단맛",
+      "묵직함"
+    ],
+    "summary": "안후이성 서부의 황차 계열 차로, 구운 곡물과 큰 잎의 단맛이 특징입니다."
+  },
+  {
+    "id": "广东大叶青-광동대엽청",
+    "name": "광동대엽청",
+    "hanzi": "广东大叶青",
+    "region": "광둥성 사오관",
+    "province": "광둥성",
+    "type": "황차",
+    "famousArea": "광둥 북부",
+    "process": [
+      "채엽",
+      "살청",
+      "민황",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EA%B4%91%EB%8F%99%EB%8C%80%EC%97%BD%EC%B2%AD%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "군산",
+        "url": "https://www.google.com/search?q=%EA%B5%B0%EC%82%B0%20%EA%B4%91%EB%8F%99%EB%8C%80%EC%97%BD%EC%B2%AD%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "광둥 북부 지역 생산자",
+        "url": "https://www.google.com/search?q=%EA%B4%91%EB%91%A5%20%EB%B6%81%EB%B6%80%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EA%B4%91%EB%8F%99%EB%8C%80%EC%97%BD%EC%B2%AD%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "80-85°C",
+      "time": "2-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "황차는 순한 곡물향이 장점이므로 과하게 뜨거운 물은 피합니다."
+    },
+    "notes": [
+      "구수함",
+      "큰 잎 향",
+      "부드러움"
+    ],
+    "summary": "광둥성 사오관의 황차 계열 차로, 구수함과 큰 잎 향이 특징입니다."
+  },
+  {
+    "id": "海马宫茶-해마궁차",
+    "name": "해마궁차",
+    "hanzi": "海马宫茶",
+    "region": "구이저우성 다팡",
+    "province": "구이저우성",
+    "type": "황차",
+    "famousArea": "해마궁",
+    "process": [
+      "채엽",
+      "살청",
+      "민황",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%ED%95%B4%EB%A7%88%EA%B6%81%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "군산",
+        "url": "https://www.google.com/search?q=%EA%B5%B0%EC%82%B0%20%ED%95%B4%EB%A7%88%EA%B6%81%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "해마궁 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%95%B4%EB%A7%88%EA%B6%81%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%ED%95%B4%EB%A7%88%EA%B6%81%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "80-85°C",
+      "time": "2-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "황차는 순한 곡물향이 장점이므로 과하게 뜨거운 물은 피합니다."
+    },
+    "notes": [
+      "곡물향",
+      "약한 단맛",
+      "순함"
+    ],
+    "summary": "구이저우성 다팡의 황차 계열 차로, 곡물향과 약한 단맛이 특징입니다."
+  },
+  {
+    "id": "莫干黄芽-막간황아",
+    "name": "막간황아",
+    "hanzi": "莫干黄芽",
+    "region": "저장성 더칭",
+    "province": "저장성",
+    "type": "황차",
+    "famousArea": "모간산",
+    "process": [
+      "채엽",
+      "살청",
+      "민황",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EB%A7%89%EA%B0%84%ED%99%A9%EC%95%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "군산",
+        "url": "https://www.google.com/search?q=%EA%B5%B0%EC%82%B0%20%EB%A7%89%EA%B0%84%ED%99%A9%EC%95%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "모간산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%AA%A8%EA%B0%84%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%A7%89%EA%B0%84%ED%99%A9%EC%95%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "80-85°C",
+      "time": "2-3분",
+      "ratio": "차 3g / 물 150ml",
+      "tips": "황차는 순한 곡물향이 장점이므로 과하게 뜨거운 물은 피합니다."
+    },
+    "notes": [
+      "청향",
+      "곡물향",
+      "맑은 단맛"
+    ],
+    "summary": "저장성 더칭의 황차 계열 차로, 청향과 곡물향이 특징입니다."
+  },
+  {
+    "id": "铁观音-철관음",
+    "name": "철관음",
+    "hanzi": "铁观音",
+    "region": "푸젠성 안시",
+    "province": "푸젠성",
+    "type": "우롱차",
+    "famousArea": "안시현",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "팔마",
+        "url": "https://www.google.com/search?q=%ED%8C%94%EB%A7%88%20%EC%B2%A0%EA%B4%80%EC%9D%8C%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%B2%A0%EA%B4%80%EC%9D%8C%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "안시현 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%95%88%EC%8B%9C%ED%98%84%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%B2%A0%EA%B4%80%EC%9D%8C%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-45초",
+      "ratio": "차 6g / 물 120ml",
+      "tips": "개완이나 작은 자사호로 짧게 여러 번 우리면 향 변화가 잘 보입니다."
+    },
+    "notes": [
+      "난향",
+      "크리미함",
+      "긴 여운"
+    ],
+    "summary": "푸젠성 안시의 우롱차 계열 차로, 난향과 크리미함이 특징입니다."
+  },
+  {
+    "id": "黄金桂-황금계",
+    "name": "황금계",
+    "hanzi": "黄金桂",
+    "region": "푸젠성 안시",
+    "province": "푸젠성",
+    "type": "우롱차",
+    "famousArea": "안시",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "팔마",
+        "url": "https://www.google.com/search?q=%ED%8C%94%EB%A7%88%20%ED%99%A9%EA%B8%88%EA%B3%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%ED%99%A9%EA%B8%88%EA%B3%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "안시 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%95%88%EC%8B%9C%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%ED%99%A9%EA%B8%88%EA%B3%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-45초",
+      "ratio": "차 6g / 물 120ml",
+      "tips": "개완이나 작은 자사호로 짧게 여러 번 우리면 향 변화가 잘 보입니다."
+    },
+    "notes": [
+      "계수나무향",
+      "가벼움",
+      "화사함"
+    ],
+    "summary": "푸젠성 안시의 우롱차 계열 차로, 계수나무향과 가벼움이 특징입니다."
+  },
+  {
+    "id": "本山-본산",
+    "name": "본산",
+    "hanzi": "本山",
+    "region": "푸젠성 안시",
+    "province": "푸젠성",
+    "type": "우롱차",
+    "famousArea": "안시",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "팔마",
+        "url": "https://www.google.com/search?q=%ED%8C%94%EB%A7%88%20%EB%B3%B8%EC%82%B0%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EB%B3%B8%EC%82%B0%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "안시 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%95%88%EC%8B%9C%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%B3%B8%EC%82%B0%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-45초",
+      "ratio": "차 6g / 물 120ml",
+      "tips": "개완이나 작은 자사호로 짧게 여러 번 우리면 향 변화가 잘 보입니다."
+    },
+    "notes": [
+      "꽃향",
+      "부드러움",
+      "가벼운 바디"
+    ],
+    "summary": "푸젠성 안시의 우롱차 계열 차로, 꽃향과 부드러움이 특징입니다."
+  },
+  {
+    "id": "毛蟹-모해",
+    "name": "모해",
+    "hanzi": "毛蟹",
+    "region": "푸젠성 안시",
+    "province": "푸젠성",
+    "type": "우롱차",
+    "famousArea": "안시",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "팔마",
+        "url": "https://www.google.com/search?q=%ED%8C%94%EB%A7%88%20%EB%AA%A8%ED%95%B4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EB%AA%A8%ED%95%B4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "안시 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%95%88%EC%8B%9C%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%AA%A8%ED%95%B4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-45초",
+      "ratio": "차 6g / 물 120ml",
+      "tips": "개완이나 작은 자사호로 짧게 여러 번 우리면 향 변화가 잘 보입니다."
+    },
+    "notes": [
+      "청향",
+      "꽃향",
+      "산뜻함"
+    ],
+    "summary": "푸젠성 안시의 우롱차 계열 차로, 청향과 꽃향이 특징입니다."
+  },
+  {
+    "id": "大红袍-대홍포",
+    "name": "대홍포",
+    "hanzi": "大红袍",
+    "region": "푸젠성 우이산",
+    "province": "푸젠성",
+    "type": "암차",
+    "famousArea": "우이산",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "탄배"
+    ],
+    "brands": [
+      {
+        "name": "무이성",
+        "url": "https://www.google.com/search?q=%EB%AC%B4%EC%9D%B4%EC%84%B1%20%EB%8C%80%ED%99%8D%ED%8F%AC%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EB%8C%80%ED%99%8D%ED%8F%AC%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "우이산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9A%B0%EC%9D%B4%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%8C%80%ED%99%8D%ED%8F%AC%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "10-30초",
+      "ratio": "차 7g / 물 120ml",
+      "tips": "첫 탕은 짧게, 이후 탄배향과 암운을 보며 시간을 조금씩 늘립니다."
+    },
+    "notes": [
+      "암운",
+      "구운 향",
+      "미네랄감"
+    ],
+    "summary": "푸젠성 우이산의 암차 계열 차로, 암운과 구운 향이 특징입니다."
+  },
+  {
+    "id": "水仙-수선",
+    "name": "수선",
+    "hanzi": "水仙",
+    "region": "푸젠성 우이산",
+    "province": "푸젠성",
+    "type": "암차",
+    "famousArea": "우이산",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "탄배"
+    ],
+    "brands": [
+      {
+        "name": "무이성",
+        "url": "https://www.google.com/search?q=%EB%AC%B4%EC%9D%B4%EC%84%B1%20%EC%88%98%EC%84%A0%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%88%98%EC%84%A0%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "우이산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9A%B0%EC%9D%B4%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%88%98%EC%84%A0%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "10-30초",
+      "ratio": "차 7g / 물 120ml",
+      "tips": "첫 탕은 짧게, 이후 탄배향과 암운을 보며 시간을 조금씩 늘립니다."
+    },
+    "notes": [
+      "난향",
+      "나무향",
+      "묵직함"
+    ],
+    "summary": "푸젠성 우이산의 암차 계열 차로, 난향과 나무향이 특징입니다."
+  },
+  {
+    "id": "肉桂-육계",
+    "name": "육계",
+    "hanzi": "肉桂",
+    "region": "푸젠성 우이산",
+    "province": "푸젠성",
+    "type": "암차",
+    "famousArea": "우이산",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "탄배"
+    ],
+    "brands": [
+      {
+        "name": "무이성",
+        "url": "https://www.google.com/search?q=%EB%AC%B4%EC%9D%B4%EC%84%B1%20%EC%9C%A1%EA%B3%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%9C%A1%EA%B3%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "우이산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9A%B0%EC%9D%B4%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%9C%A1%EA%B3%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "10-30초",
+      "ratio": "차 7g / 물 120ml",
+      "tips": "첫 탕은 짧게, 이후 탄배향과 암운을 보며 시간을 조금씩 늘립니다."
+    },
+    "notes": [
+      "계피향",
+      "스파이스",
+      "암운"
+    ],
+    "summary": "푸젠성 우이산의 암차 계열 차로, 계피향과 스파이스이 특징입니다."
+  },
+  {
+    "id": "铁罗汉-철라한",
+    "name": "철라한",
+    "hanzi": "铁罗汉",
+    "region": "푸젠성 우이산",
+    "province": "푸젠성",
+    "type": "암차",
+    "famousArea": "우이산",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "탄배"
+    ],
+    "brands": [
+      {
+        "name": "무이성",
+        "url": "https://www.google.com/search?q=%EB%AC%B4%EC%9D%B4%EC%84%B1%20%EC%B2%A0%EB%9D%BC%ED%95%9C%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%B2%A0%EB%9D%BC%ED%95%9C%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "우이산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9A%B0%EC%9D%B4%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%B2%A0%EB%9D%BC%ED%95%9C%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "10-30초",
+      "ratio": "차 7g / 물 120ml",
+      "tips": "첫 탕은 짧게, 이후 탄배향과 암운을 보며 시간을 조금씩 늘립니다."
+    },
+    "notes": [
+      "구운 향",
+      "약재향",
+      "묵직함"
+    ],
+    "summary": "푸젠성 우이산의 암차 계열 차로, 구운 향과 약재향이 특징입니다."
+  },
+  {
+    "id": "白鸡冠-백계관",
+    "name": "백계관",
+    "hanzi": "白鸡冠",
+    "region": "푸젠성 우이산",
+    "province": "푸젠성",
+    "type": "암차",
+    "famousArea": "우이산",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "탄배"
+    ],
+    "brands": [
+      {
+        "name": "무이성",
+        "url": "https://www.google.com/search?q=%EB%AC%B4%EC%9D%B4%EC%84%B1%20%EB%B0%B1%EA%B3%84%EA%B4%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EB%B0%B1%EA%B3%84%EA%B4%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "우이산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9A%B0%EC%9D%B4%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%B0%B1%EA%B3%84%EA%B4%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "10-30초",
+      "ratio": "차 7g / 물 120ml",
+      "tips": "첫 탕은 짧게, 이후 탄배향과 암운을 보며 시간을 조금씩 늘립니다."
+    },
+    "notes": [
+      "꽃향",
+      "부드러운 암운",
+      "희소함"
+    ],
+    "summary": "푸젠성 우이산의 암차 계열 차로, 꽃향과 부드러운 암운이 특징입니다."
+  },
+  {
+    "id": "水金龟-수금귀",
+    "name": "수금귀",
+    "hanzi": "水金龟",
+    "region": "푸젠성 우이산",
+    "province": "푸젠성",
+    "type": "암차",
+    "famousArea": "우이산",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "탄배"
+    ],
+    "brands": [
+      {
+        "name": "무이성",
+        "url": "https://www.google.com/search?q=%EB%AC%B4%EC%9D%B4%EC%84%B1%20%EC%88%98%EA%B8%88%EA%B7%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%88%98%EA%B8%88%EA%B7%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "우이산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9A%B0%EC%9D%B4%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%88%98%EA%B8%88%EA%B7%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "10-30초",
+      "ratio": "차 7g / 물 120ml",
+      "tips": "첫 탕은 짧게, 이후 탄배향과 암운을 보며 시간을 조금씩 늘립니다."
+    },
+    "notes": [
+      "미네랄감",
+      "구운 향",
+      "긴 여운"
+    ],
+    "summary": "푸젠성 우이산의 암차 계열 차로, 미네랄감과 구운 향이 특징입니다."
+  },
+  {
+    "id": "半天妖-반천요",
+    "name": "반천요",
+    "hanzi": "半天妖",
+    "region": "푸젠성 우이산",
+    "province": "푸젠성",
+    "type": "암차",
+    "famousArea": "우이산",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "탄배"
+    ],
+    "brands": [
+      {
+        "name": "무이성",
+        "url": "https://www.google.com/search?q=%EB%AC%B4%EC%9D%B4%EC%84%B1%20%EB%B0%98%EC%B2%9C%EC%9A%94%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EB%B0%98%EC%B2%9C%EC%9A%94%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "우이산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9A%B0%EC%9D%B4%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%B0%98%EC%B2%9C%EC%9A%94%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "10-30초",
+      "ratio": "차 7g / 물 120ml",
+      "tips": "첫 탕은 짧게, 이후 탄배향과 암운을 보며 시간을 조금씩 늘립니다."
+    },
+    "notes": [
+      "꽃향",
+      "나무향",
+      "암운"
+    ],
+    "summary": "푸젠성 우이산의 암차 계열 차로, 꽃향과 나무향이 특징입니다."
+  },
+  {
+    "id": "奇兰-기란",
+    "name": "기란",
+    "hanzi": "奇兰",
+    "region": "푸젠성 우이산",
+    "province": "푸젠성",
+    "type": "암차",
+    "famousArea": "우이산",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "탄배"
+    ],
+    "brands": [
+      {
+        "name": "무이성",
+        "url": "https://www.google.com/search?q=%EB%AC%B4%EC%9D%B4%EC%84%B1%20%EA%B8%B0%EB%9E%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EA%B8%B0%EB%9E%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "우이산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9A%B0%EC%9D%B4%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EA%B8%B0%EB%9E%80%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "10-30초",
+      "ratio": "차 7g / 물 120ml",
+      "tips": "첫 탕은 짧게, 이후 탄배향과 암운을 보며 시간을 조금씩 늘립니다."
+    },
+    "notes": [
+      "난향",
+      "달큰함",
+      "가벼운 탄배"
+    ],
+    "summary": "푸젠성 우이산의 암차 계열 차로, 난향과 달큰함이 특징입니다."
+  },
+  {
+    "id": "凤凰单丛-봉황단총",
+    "name": "봉황단총",
+    "hanzi": "凤凰单丛",
+    "region": "광둥성 차오저우",
+    "province": "광둥성",
+    "type": "우롱차",
+    "famousArea": "봉황산",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "팔마",
+        "url": "https://www.google.com/search?q=%ED%8C%94%EB%A7%88%20%EB%B4%89%ED%99%A9%EB%8B%A8%EC%B4%9D%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EB%B4%89%ED%99%A9%EB%8B%A8%EC%B4%9D%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "봉황산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%B4%89%ED%99%A9%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%B4%89%ED%99%A9%EB%8B%A8%EC%B4%9D%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-45초",
+      "ratio": "차 6g / 물 120ml",
+      "tips": "개완이나 작은 자사호로 짧게 여러 번 우리면 향 변화가 잘 보입니다."
+    },
+    "notes": [
+      "복숭아향",
+      "꽃향",
+      "긴 여운"
+    ],
+    "summary": "광둥성 차오저우의 우롱차 계열 차로, 복숭아향과 꽃향이 특징입니다."
+  },
+  {
+    "id": "蜜兰香单丛-밀란향단총",
+    "name": "밀란향단총",
+    "hanzi": "蜜兰香单丛",
+    "region": "광둥성 차오저우",
+    "province": "광둥성",
+    "type": "우롱차",
+    "famousArea": "봉황산",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "팔마",
+        "url": "https://www.google.com/search?q=%ED%8C%94%EB%A7%88%20%EB%B0%80%EB%9E%80%ED%96%A5%EB%8B%A8%EC%B4%9D%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EB%B0%80%EB%9E%80%ED%96%A5%EB%8B%A8%EC%B4%9D%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "봉황산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%B4%89%ED%99%A9%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%B0%80%EB%9E%80%ED%96%A5%EB%8B%A8%EC%B4%9D%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-45초",
+      "ratio": "차 6g / 물 120ml",
+      "tips": "개완이나 작은 자사호로 짧게 여러 번 우리면 향 변화가 잘 보입니다."
+    },
+    "notes": [
+      "꿀난향",
+      "과일향",
+      "화사함"
+    ],
+    "summary": "광둥성 차오저우의 우롱차 계열 차로, 꿀난향과 과일향이 특징입니다."
+  },
+  {
+    "id": "黄枝香单丛-황지향단총",
+    "name": "황지향단총",
+    "hanzi": "黄枝香单丛",
+    "region": "광둥성 차오저우",
+    "province": "광둥성",
+    "type": "우롱차",
+    "famousArea": "봉황산",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "팔마",
+        "url": "https://www.google.com/search?q=%ED%8C%94%EB%A7%88%20%ED%99%A9%EC%A7%80%ED%96%A5%EB%8B%A8%EC%B4%9D%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%ED%99%A9%EC%A7%80%ED%96%A5%EB%8B%A8%EC%B4%9D%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "봉황산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%B4%89%ED%99%A9%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%ED%99%A9%EC%A7%80%ED%96%A5%EB%8B%A8%EC%B4%9D%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-45초",
+      "ratio": "차 6g / 물 120ml",
+      "tips": "개완이나 작은 자사호로 짧게 여러 번 우리면 향 변화가 잘 보입니다."
+    },
+    "notes": [
+      "치자꽃향",
+      "달큰함",
+      "청량감"
+    ],
+    "summary": "광둥성 차오저우의 우롱차 계열 차로, 치자꽃향과 달큰함이 특징입니다."
+  },
+  {
+    "id": "鸭屎香单丛-야시향단총",
+    "name": "야시향단총",
+    "hanzi": "鸭屎香单丛",
+    "region": "광둥성 차오저우",
+    "province": "광둥성",
+    "type": "우롱차",
+    "famousArea": "봉황산",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "팔마",
+        "url": "https://www.google.com/search?q=%ED%8C%94%EB%A7%88%20%EC%95%BC%EC%8B%9C%ED%96%A5%EB%8B%A8%EC%B4%9D%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%95%BC%EC%8B%9C%ED%96%A5%EB%8B%A8%EC%B4%9D%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "봉황산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%B4%89%ED%99%A9%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%95%BC%EC%8B%9C%ED%96%A5%EB%8B%A8%EC%B4%9D%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-45초",
+      "ratio": "차 6g / 물 120ml",
+      "tips": "개완이나 작은 자사호로 짧게 여러 번 우리면 향 변화가 잘 보입니다."
+    },
+    "notes": [
+      "난향",
+      "크리미함",
+      "긴 향"
+    ],
+    "summary": "광둥성 차오저우의 우롱차 계열 차로, 난향과 크리미함이 특징입니다."
+  },
+  {
+    "id": "文山包种-문산포종",
+    "name": "문산포종",
+    "hanzi": "文山包种",
+    "region": "타이완성 신베이",
+    "province": "타이완성",
+    "type": "우롱차",
+    "famousArea": "문산",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "팔마",
+        "url": "https://www.google.com/search?q=%ED%8C%94%EB%A7%88%20%EB%AC%B8%EC%82%B0%ED%8F%AC%EC%A2%85%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EB%AC%B8%EC%82%B0%ED%8F%AC%EC%A2%85%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "문산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%AC%B8%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%AC%B8%EC%82%B0%ED%8F%AC%EC%A2%85%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-45초",
+      "ratio": "차 6g / 물 120ml",
+      "tips": "개완이나 작은 자사호로 짧게 여러 번 우리면 향 변화가 잘 보입니다."
+    },
+    "notes": [
+      "꽃향",
+      "가벼움",
+      "청향"
+    ],
+    "summary": "타이완성 신베이의 우롱차 계열 차로, 꽃향과 가벼움이 특징입니다."
+  },
+  {
+    "id": "冻顶乌龙-동정우롱",
+    "name": "동정우롱",
+    "hanzi": "冻顶乌龙",
+    "region": "타이완성 난터우",
+    "province": "타이완성",
+    "type": "우롱차",
+    "famousArea": "동정산",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "팔마",
+        "url": "https://www.google.com/search?q=%ED%8C%94%EB%A7%88%20%EB%8F%99%EC%A0%95%EC%9A%B0%EB%A1%B1%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EB%8F%99%EC%A0%95%EC%9A%B0%EB%A1%B1%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "동정산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%8F%99%EC%A0%95%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%8F%99%EC%A0%95%EC%9A%B0%EB%A1%B1%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-45초",
+      "ratio": "차 6g / 물 120ml",
+      "tips": "개완이나 작은 자사호로 짧게 여러 번 우리면 향 변화가 잘 보입니다."
+    },
+    "notes": [
+      "구운 향",
+      "꽃향",
+      "단맛"
+    ],
+    "summary": "타이완성 난터우의 우롱차 계열 차로, 구운 향과 꽃향이 특징입니다."
+  },
+  {
+    "id": "阿里山乌龙-아리산우롱",
+    "name": "아리산우롱",
+    "hanzi": "阿里山乌龙",
+    "region": "타이완성 자이",
+    "province": "타이완성",
+    "type": "우롱차",
+    "famousArea": "아리산",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "팔마",
+        "url": "https://www.google.com/search?q=%ED%8C%94%EB%A7%88%20%EC%95%84%EB%A6%AC%EC%82%B0%EC%9A%B0%EB%A1%B1%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EC%95%84%EB%A6%AC%EC%82%B0%EC%9A%B0%EB%A1%B1%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "아리산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%95%84%EB%A6%AC%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%95%84%EB%A6%AC%EC%82%B0%EC%9A%B0%EB%A1%B1%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-45초",
+      "ratio": "차 6g / 물 120ml",
+      "tips": "개완이나 작은 자사호로 짧게 여러 번 우리면 향 변화가 잘 보입니다."
+    },
+    "notes": [
+      "고산향",
+      "크리미함",
+      "맑은 단맛"
+    ],
+    "summary": "타이완성 자이의 우롱차 계열 차로, 고산향과 크리미함이 특징입니다."
+  },
+  {
+    "id": "东方美人-동방미인",
+    "name": "동방미인",
+    "hanzi": "东方美人",
+    "region": "타이완성 신주",
+    "province": "타이완성",
+    "type": "우롱차",
+    "famousArea": "신주",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "팔마",
+        "url": "https://www.google.com/search?q=%ED%8C%94%EB%A7%88%20%EB%8F%99%EB%B0%A9%EB%AF%B8%EC%9D%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EB%8F%99%EB%B0%A9%EB%AF%B8%EC%9D%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "신주 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%8B%A0%EC%A3%BC%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%8F%99%EB%B0%A9%EB%AF%B8%EC%9D%B8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-45초",
+      "ratio": "차 6g / 물 120ml",
+      "tips": "개완이나 작은 자사호로 짧게 여러 번 우리면 향 변화가 잘 보입니다."
+    },
+    "notes": [
+      "꿀향",
+      "과일향",
+      "부드러운 산화향"
+    ],
+    "summary": "타이완성 신주의 우롱차 계열 차로, 꿀향과 과일향이 특징입니다."
+  },
+  {
+    "id": "木栅铁观音-목책철관음",
+    "name": "목책철관음",
+    "hanzi": "木栅铁观音",
+    "region": "타이완성 타이베이",
+    "province": "타이완성",
+    "type": "우롱차",
+    "famousArea": "목책",
+    "process": [
+      "채엽",
+      "위조",
+      "요청",
+      "부분 산화",
+      "살청",
+      "유념",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "팔마",
+        "url": "https://www.google.com/search?q=%ED%8C%94%EB%A7%88%20%EB%AA%A9%EC%B1%85%EC%B2%A0%EA%B4%80%EC%9D%8C%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "천복명차",
+        "url": "https://www.google.com/search?q=%EC%B2%9C%EB%B3%B5%EB%AA%85%EC%B0%A8%20%EB%AA%A9%EC%B1%85%EC%B2%A0%EA%B4%80%EC%9D%8C%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "목책 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%AA%A9%EC%B1%85%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%AA%A9%EC%B1%85%EC%B2%A0%EA%B4%80%EC%9D%8C%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-45초",
+      "ratio": "차 6g / 물 120ml",
+      "tips": "개완이나 작은 자사호로 짧게 여러 번 우리면 향 변화가 잘 보입니다."
+    },
+    "notes": [
+      "탄배향",
+      "난향",
+      "묵직함"
+    ],
+    "summary": "타이완성 타이베이의 우롱차 계열 차로, 탄배향과 난향이 특징입니다."
+  },
+  {
+    "id": "普洱生茶-보이-생차",
+    "name": "보이 생차",
+    "hanzi": "普洱生茶",
+    "region": "윈난성 시솽반나",
+    "province": "윈난성",
+    "type": "보이차",
+    "famousArea": "이무, 반장, 경매산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "햇볕 건조",
+      "압병",
+      "숙성"
+    ],
+    "brands": [
+      {
+        "name": "대익",
+        "url": "https://www.google.com/search?q=%EB%8C%80%EC%9D%B5%20%EB%B3%B4%EC%9D%B4%20%EC%83%9D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "하관",
+        "url": "https://www.google.com/search?q=%ED%95%98%EA%B4%80%20%EB%B3%B4%EC%9D%B4%20%EC%83%9D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "이무, 반장, 경매산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9D%B4%EB%AC%B4%2C%20%EB%B0%98%EC%9E%A5%2C%20%EA%B2%BD%EB%A7%A4%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%B3%B4%EC%9D%B4%20%EC%83%9D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "10-30초",
+      "ratio": "차 7g / 물 120ml",
+      "tips": "첫 물은 빠르게 헹구고, 초반 탕은 짧게 우려 쓴맛과 향의 균형을 봅니다."
+    },
+    "notes": [
+      "풀향",
+      "쌉쌀함",
+      "숙성에 따른 꿀향"
+    ],
+    "summary": "윈난성 시솽반나의 보이차 계열 차로, 풀향과 쌉쌀함이 특징입니다."
+  },
+  {
+    "id": "普洱熟茶-보이-숙차",
+    "name": "보이 숙차",
+    "hanzi": "普洱熟茶",
+    "region": "윈난성 푸얼",
+    "province": "윈난성",
+    "type": "보이차",
+    "famousArea": "푸얼",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "햇볕 건조",
+      "압병",
+      "숙성"
+    ],
+    "brands": [
+      {
+        "name": "대익",
+        "url": "https://www.google.com/search?q=%EB%8C%80%EC%9D%B5%20%EB%B3%B4%EC%9D%B4%20%EC%88%99%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "하관",
+        "url": "https://www.google.com/search?q=%ED%95%98%EA%B4%80%20%EB%B3%B4%EC%9D%B4%20%EC%88%99%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "푸얼 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%91%B8%EC%96%BC%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%B3%B4%EC%9D%B4%20%EC%88%99%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "10-30초",
+      "ratio": "차 7g / 물 120ml",
+      "tips": "첫 물은 빠르게 헹구고, 초반 탕은 짧게 우려 쓴맛과 향의 균형을 봅니다."
+    },
+    "notes": [
+      "흙향",
+      "대추향",
+      "부드러움"
+    ],
+    "summary": "윈난성 푸얼의 보이차 계열 차로, 흙향과 대추향이 특징입니다."
+  },
+  {
+    "id": "易武古树茶-이무고수차",
+    "name": "이무고수차",
+    "hanzi": "易武古树茶",
+    "region": "윈난성 이무",
+    "province": "윈난성",
+    "type": "보이차",
+    "famousArea": "이무",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "햇볕 건조",
+      "압병",
+      "숙성"
+    ],
+    "brands": [
+      {
+        "name": "대익",
+        "url": "https://www.google.com/search?q=%EB%8C%80%EC%9D%B5%20%EC%9D%B4%EB%AC%B4%EA%B3%A0%EC%88%98%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "하관",
+        "url": "https://www.google.com/search?q=%ED%95%98%EA%B4%80%20%EC%9D%B4%EB%AC%B4%EA%B3%A0%EC%88%98%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "이무 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9D%B4%EB%AC%B4%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%9D%B4%EB%AC%B4%EA%B3%A0%EC%88%98%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "10-30초",
+      "ratio": "차 7g / 물 120ml",
+      "tips": "첫 물은 빠르게 헹구고, 초반 탕은 짧게 우려 쓴맛과 향의 균형을 봅니다."
+    },
+    "notes": [
+      "부드러운 꿀향",
+      "산림향",
+      "긴 여운"
+    ],
+    "summary": "윈난성 이무의 보이차 계열 차로, 부드러운 꿀향과 산림향이 특징입니다."
+  },
+  {
+    "id": "老班章-노반장",
+    "name": "노반장",
+    "hanzi": "老班章",
+    "region": "윈난성 멍하이",
+    "province": "윈난성",
+    "type": "보이차",
+    "famousArea": "반장",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "햇볕 건조",
+      "압병",
+      "숙성"
+    ],
+    "brands": [
+      {
+        "name": "대익",
+        "url": "https://www.google.com/search?q=%EB%8C%80%EC%9D%B5%20%EB%85%B8%EB%B0%98%EC%9E%A5%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "하관",
+        "url": "https://www.google.com/search?q=%ED%95%98%EA%B4%80%20%EB%85%B8%EB%B0%98%EC%9E%A5%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "반장 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%B0%98%EC%9E%A5%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%85%B8%EB%B0%98%EC%9E%A5%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "10-30초",
+      "ratio": "차 7g / 물 120ml",
+      "tips": "첫 물은 빠르게 헹구고, 초반 탕은 짧게 우려 쓴맛과 향의 균형을 봅니다."
+    },
+    "notes": [
+      "강한 쓴맛",
+      "묵직함",
+      "빠른 회감"
+    ],
+    "summary": "윈난성 멍하이의 보이차 계열 차로, 강한 쓴맛과 묵직함이 특징입니다."
+  },
+  {
+    "id": "冰岛茶-빙도",
+    "name": "빙도",
+    "hanzi": "冰岛茶",
+    "region": "윈난성 린창",
+    "province": "윈난성",
+    "type": "보이차",
+    "famousArea": "빙도",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "햇볕 건조",
+      "압병",
+      "숙성"
+    ],
+    "brands": [
+      {
+        "name": "대익",
+        "url": "https://www.google.com/search?q=%EB%8C%80%EC%9D%B5%20%EB%B9%99%EB%8F%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "하관",
+        "url": "https://www.google.com/search?q=%ED%95%98%EA%B4%80%20%EB%B9%99%EB%8F%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "빙도 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%B9%99%EB%8F%84%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%B9%99%EB%8F%84%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "10-30초",
+      "ratio": "차 7g / 물 120ml",
+      "tips": "첫 물은 빠르게 헹구고, 초반 탕은 짧게 우려 쓴맛과 향의 균형을 봅니다."
+    },
+    "notes": [
+      "빙당향",
+      "맑은 단맛",
+      "긴 여운"
+    ],
+    "summary": "윈난성 린창의 보이차 계열 차로, 빙당향과 맑은 단맛이 특징입니다."
+  },
+  {
+    "id": "景迈山茶-경매산차",
+    "name": "경매산차",
+    "hanzi": "景迈山茶",
+    "region": "윈난성 푸얼",
+    "province": "윈난성",
+    "type": "보이차",
+    "famousArea": "경매산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "햇볕 건조",
+      "압병",
+      "숙성"
+    ],
+    "brands": [
+      {
+        "name": "대익",
+        "url": "https://www.google.com/search?q=%EB%8C%80%EC%9D%B5%20%EA%B2%BD%EB%A7%A4%EC%82%B0%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "하관",
+        "url": "https://www.google.com/search?q=%ED%95%98%EA%B4%80%20%EA%B2%BD%EB%A7%A4%EC%82%B0%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "경매산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EA%B2%BD%EB%A7%A4%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EA%B2%BD%EB%A7%A4%EC%82%B0%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "10-30초",
+      "ratio": "차 7g / 물 120ml",
+      "tips": "첫 물은 빠르게 헹구고, 초반 탕은 짧게 우려 쓴맛과 향의 균형을 봅니다."
+    },
+    "notes": [
+      "난향",
+      "산림향",
+      "부드러움"
+    ],
+    "summary": "윈난성 푸얼의 보이차 계열 차로, 난향과 산림향이 특징입니다."
+  },
+  {
+    "id": "曼松茶-만송차",
+    "name": "만송차",
+    "hanzi": "曼松茶",
+    "region": "윈난성 시솽반나",
+    "province": "윈난성",
+    "type": "보이차",
+    "famousArea": "만송",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "햇볕 건조",
+      "압병",
+      "숙성"
+    ],
+    "brands": [
+      {
+        "name": "대익",
+        "url": "https://www.google.com/search?q=%EB%8C%80%EC%9D%B5%20%EB%A7%8C%EC%86%A1%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "하관",
+        "url": "https://www.google.com/search?q=%ED%95%98%EA%B4%80%20%EB%A7%8C%EC%86%A1%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "만송 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%A7%8C%EC%86%A1%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%A7%8C%EC%86%A1%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "10-30초",
+      "ratio": "차 7g / 물 120ml",
+      "tips": "첫 물은 빠르게 헹구고, 초반 탕은 짧게 우려 쓴맛과 향의 균형을 봅니다."
+    },
+    "notes": [
+      "꿀향",
+      "섬세함",
+      "희소함"
+    ],
+    "summary": "윈난성 시솽반나의 보이차 계열 차로, 꿀향과 섬세함이 특징입니다."
+  },
+  {
+    "id": "昔归茶-석귀차",
+    "name": "석귀차",
+    "hanzi": "昔归茶",
+    "region": "윈난성 린창",
+    "province": "윈난성",
+    "type": "보이차",
+    "famousArea": "석귀",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "햇볕 건조",
+      "압병",
+      "숙성"
+    ],
+    "brands": [
+      {
+        "name": "대익",
+        "url": "https://www.google.com/search?q=%EB%8C%80%EC%9D%B5%20%EC%84%9D%EA%B7%80%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "하관",
+        "url": "https://www.google.com/search?q=%ED%95%98%EA%B4%80%20%EC%84%9D%EA%B7%80%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "석귀 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%84%9D%EA%B7%80%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%84%9D%EA%B7%80%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "10-30초",
+      "ratio": "차 7g / 물 120ml",
+      "tips": "첫 물은 빠르게 헹구고, 초반 탕은 짧게 우려 쓴맛과 향의 균형을 봅니다."
+    },
+    "notes": [
+      "강한 향",
+      "감칠맛",
+      "긴 여운"
+    ],
+    "summary": "윈난성 린창의 보이차 계열 차로, 강한 향과 감칠맛이 특징입니다."
+  },
+  {
+    "id": "南糯山茶-남나산차",
+    "name": "남나산차",
+    "hanzi": "南糯山茶",
+    "region": "윈난성 멍하이",
+    "province": "윈난성",
+    "type": "보이차",
+    "famousArea": "남나산",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "햇볕 건조",
+      "압병",
+      "숙성"
+    ],
+    "brands": [
+      {
+        "name": "대익",
+        "url": "https://www.google.com/search?q=%EB%8C%80%EC%9D%B5%20%EB%82%A8%EB%82%98%EC%82%B0%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "하관",
+        "url": "https://www.google.com/search?q=%ED%95%98%EA%B4%80%20%EB%82%A8%EB%82%98%EC%82%B0%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "남나산 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%82%A8%EB%82%98%EC%82%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%82%A8%EB%82%98%EC%82%B0%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "10-30초",
+      "ratio": "차 7g / 물 120ml",
+      "tips": "첫 물은 빠르게 헹구고, 초반 탕은 짧게 우려 쓴맛과 향의 균형을 봅니다."
+    },
+    "notes": [
+      "꽃향",
+      "산림향",
+      "부드러운 쓴맛"
+    ],
+    "summary": "윈난성 멍하이의 보이차 계열 차로, 꽃향과 산림향이 특징입니다."
+  },
+  {
+    "id": "下关沱茶-하관타차",
+    "name": "하관타차",
+    "hanzi": "下关沱茶",
+    "region": "윈난성 다리",
+    "province": "윈난성",
+    "type": "보이차",
+    "famousArea": "다리",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "햇볕 건조",
+      "압병",
+      "숙성"
+    ],
+    "brands": [
+      {
+        "name": "대익",
+        "url": "https://www.google.com/search?q=%EB%8C%80%EC%9D%B5%20%ED%95%98%EA%B4%80%ED%83%80%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "하관",
+        "url": "https://www.google.com/search?q=%ED%95%98%EA%B4%80%20%ED%95%98%EA%B4%80%ED%83%80%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "다리 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%8B%A4%EB%A6%AC%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%ED%95%98%EA%B4%80%ED%83%80%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "10-30초",
+      "ratio": "차 7g / 물 120ml",
+      "tips": "첫 물은 빠르게 헹구고, 초반 탕은 짧게 우려 쓴맛과 향의 균형을 봅니다."
+    },
+    "notes": [
+      "훈연감",
+      "묵직함",
+      "숙성향"
+    ],
+    "summary": "윈난성 다리의 보이차 계열 차로, 훈연감과 묵직함이 특징입니다."
+  },
+  {
+    "id": "安化黑茶-안화흑차",
+    "name": "안화흑차",
+    "hanzi": "安化黑茶",
+    "region": "후난성 안화",
+    "province": "후난성",
+    "type": "흑차",
+    "famousArea": "안화",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "악퇴",
+      "압제",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "백사계",
+        "url": "https://www.google.com/search?q=%EB%B0%B1%EC%82%AC%EA%B3%84%20%EC%95%88%ED%99%94%ED%9D%91%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%95%88%ED%99%94%ED%9D%91%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "안화 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%95%88%ED%99%94%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%95%88%ED%99%94%ED%9D%91%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-60초",
+      "ratio": "차 6g / 물 150ml",
+      "tips": "압제차는 먼저 충분히 적시고, 숙성향이 강하면 헹굼을 한 번 더 합니다."
+    },
+    "notes": [
+      "균화향",
+      "나무향",
+      "부드러움"
+    ],
+    "summary": "후난성 안화의 흑차 계열 차로, 균화향과 나무향이 특징입니다."
+  },
+  {
+    "id": "茯砖茶-복전차",
+    "name": "복전차",
+    "hanzi": "茯砖茶",
+    "region": "후난성 이양",
+    "province": "후난성",
+    "type": "흑차",
+    "famousArea": "이양",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "악퇴",
+      "압제",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "백사계",
+        "url": "https://www.google.com/search?q=%EB%B0%B1%EC%82%AC%EA%B3%84%20%EB%B3%B5%EC%A0%84%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EB%B3%B5%EC%A0%84%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "이양 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9D%B4%EC%96%91%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%B3%B5%EC%A0%84%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-60초",
+      "ratio": "차 6g / 물 150ml",
+      "tips": "압제차는 먼저 충분히 적시고, 숙성향이 강하면 헹굼을 한 번 더 합니다."
+    },
+    "notes": [
+      "금화균 향",
+      "구수함",
+      "부드러움"
+    ],
+    "summary": "후난성 이양의 흑차 계열 차로, 금화균 향과 구수함이 특징입니다."
+  },
+  {
+    "id": "千两茶-천량차",
+    "name": "천량차",
+    "hanzi": "千两茶",
+    "region": "후난성 안화",
+    "province": "후난성",
+    "type": "흑차",
+    "famousArea": "안화",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "악퇴",
+      "압제",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "백사계",
+        "url": "https://www.google.com/search?q=%EB%B0%B1%EC%82%AC%EA%B3%84%20%EC%B2%9C%EB%9F%89%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%B2%9C%EB%9F%89%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "안화 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%95%88%ED%99%94%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%B2%9C%EB%9F%89%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-60초",
+      "ratio": "차 6g / 물 150ml",
+      "tips": "압제차는 먼저 충분히 적시고, 숙성향이 강하면 헹굼을 한 번 더 합니다."
+    },
+    "notes": [
+      "나무향",
+      "묵직함",
+      "숙성향"
+    ],
+    "summary": "후난성 안화의 흑차 계열 차로, 나무향과 묵직함이 특징입니다."
+  },
+  {
+    "id": "六堡茶-육보차",
+    "name": "육보차",
+    "hanzi": "六堡茶",
+    "region": "광시좡족자치구 우저우",
+    "province": "광시좡족자치구",
+    "type": "흑차",
+    "famousArea": "육보",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "악퇴",
+      "압제",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "백사계",
+        "url": "https://www.google.com/search?q=%EB%B0%B1%EC%82%AC%EA%B3%84%20%EC%9C%A1%EB%B3%B4%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%9C%A1%EB%B3%B4%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "육보 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%9C%A1%EB%B3%B4%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%9C%A1%EB%B3%B4%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-60초",
+      "ratio": "차 6g / 물 150ml",
+      "tips": "압제차는 먼저 충분히 적시고, 숙성향이 강하면 헹굼을 한 번 더 합니다."
+    },
+    "notes": [
+      "빈랑향",
+      "숙성향",
+      "부드러움"
+    ],
+    "summary": "광시좡족자치구 우저우의 흑차 계열 차로, 빈랑향과 숙성향이 특징입니다."
+  },
+  {
+    "id": "青砖茶-청전차",
+    "name": "청전차",
+    "hanzi": "青砖茶",
+    "region": "후베이성 츠비",
+    "province": "후베이성",
+    "type": "흑차",
+    "famousArea": "양러동",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "악퇴",
+      "압제",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "백사계",
+        "url": "https://www.google.com/search?q=%EB%B0%B1%EC%82%AC%EA%B3%84%20%EC%B2%AD%EC%A0%84%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EC%B2%AD%EC%A0%84%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "양러동 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%96%91%EB%9F%AC%EB%8F%99%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%B2%AD%EC%A0%84%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-60초",
+      "ratio": "차 6g / 물 150ml",
+      "tips": "압제차는 먼저 충분히 적시고, 숙성향이 강하면 헹굼을 한 번 더 합니다."
+    },
+    "notes": [
+      "구수함",
+      "나무향",
+      "담백함"
+    ],
+    "summary": "후베이성 츠비의 흑차 계열 차로, 구수함과 나무향이 특징입니다."
+  },
+  {
+    "id": "康砖茶-강전차",
+    "name": "강전차",
+    "hanzi": "康砖茶",
+    "region": "쓰촨성 야안",
+    "province": "쓰촨성",
+    "type": "흑차",
+    "famousArea": "야안",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "악퇴",
+      "압제",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "백사계",
+        "url": "https://www.google.com/search?q=%EB%B0%B1%EC%82%AC%EA%B3%84%20%EA%B0%95%EC%A0%84%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EA%B0%95%EC%A0%84%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "야안 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%95%BC%EC%95%88%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EA%B0%95%EC%A0%84%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-60초",
+      "ratio": "차 6g / 물 150ml",
+      "tips": "압제차는 먼저 충분히 적시고, 숙성향이 강하면 헹굼을 한 번 더 합니다."
+    },
+    "notes": [
+      "거친 잎 향",
+      "구수함",
+      "묵직함"
+    ],
+    "summary": "쓰촨성 야안의 흑차 계열 차로, 거친 잎 향과 구수함이 특징입니다."
+  },
+  {
+    "id": "金尖茶-금첨차",
+    "name": "금첨차",
+    "hanzi": "金尖茶",
+    "region": "쓰촨성 야안",
+    "province": "쓰촨성",
+    "type": "흑차",
+    "famousArea": "야안",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "악퇴",
+      "압제",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "백사계",
+        "url": "https://www.google.com/search?q=%EB%B0%B1%EC%82%AC%EA%B3%84%20%EA%B8%88%EC%B2%A8%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EA%B8%88%EC%B2%A8%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "야안 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%95%BC%EC%95%88%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EA%B8%88%EC%B2%A8%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-60초",
+      "ratio": "차 6g / 물 150ml",
+      "tips": "압제차는 먼저 충분히 적시고, 숙성향이 강하면 헹굼을 한 번 더 합니다."
+    },
+    "notes": [
+      "숙성향",
+      "나무향",
+      "담백함"
+    ],
+    "summary": "쓰촨성 야안의 흑차 계열 차로, 숙성향과 나무향이 특징입니다."
+  },
+  {
+    "id": "泾阳茯茶-복방차",
+    "name": "복방차",
+    "hanzi": "泾阳茯茶",
+    "region": "산시성 징양",
+    "province": "산시성",
+    "type": "흑차",
+    "famousArea": "징양",
+    "process": [
+      "채엽",
+      "살청",
+      "유념",
+      "악퇴",
+      "압제",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "백사계",
+        "url": "https://www.google.com/search?q=%EB%B0%B1%EC%82%AC%EA%B3%84%20%EB%B3%B5%EB%B0%A9%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "중차",
+        "url": "https://www.google.com/search?q=%EC%A4%91%EC%B0%A8%20%EB%B3%B5%EB%B0%A9%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "징양 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%A7%95%EC%96%91%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%B3%B5%EB%B0%A9%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "95-100°C",
+      "time": "20-60초",
+      "ratio": "차 6g / 물 150ml",
+      "tips": "압제차는 먼저 충분히 적시고, 숙성향이 강하면 헹굼을 한 번 더 합니다."
+    },
+    "notes": [
+      "금화향",
+      "구수함",
+      "부드러움"
+    ],
+    "summary": "산시성 징양의 흑차 계열 차로, 금화향과 구수함이 특징입니다."
+  },
+  {
+    "id": "茉莉花茶-재스민차",
+    "name": "재스민차",
+    "hanzi": "茉莉花茶",
+    "region": "푸젠성 푸저우",
+    "province": "푸젠성",
+    "type": "화차",
+    "famousArea": "푸저우",
+    "process": [
+      "차 베이스 준비",
+      "꽃 혼합",
+      "착향",
+      "꽃 제거",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "장일원",
+        "url": "https://www.google.com/search?q=%EC%9E%A5%EC%9D%BC%EC%9B%90%20%EC%9E%AC%EC%8A%A4%EB%AF%BC%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "오유태",
+        "url": "https://www.google.com/search?q=%EC%98%A4%EC%9C%A0%ED%83%9C%20%EC%9E%AC%EC%8A%A4%EB%AF%BC%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "푸저우 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%91%B8%EC%A0%80%EC%9A%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%9E%AC%EC%8A%A4%EB%AF%BC%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "80-90°C",
+      "time": "2-3분",
+      "ratio": "차 3g / 물 180ml",
+      "tips": "꽃향이 강하므로 낮은 온도에서 부드럽게 우리면 향이 깨끗합니다."
+    },
+    "notes": [
+      "재스민",
+      "맑은 단맛",
+      "가벼운 바디"
+    ],
+    "summary": "푸젠성 푸저우의 화차 계열 차로, 재스민과 맑은 단맛이 특징입니다."
+  },
+  {
+    "id": "北京茉莉花茶-북경재스민",
+    "name": "북경재스민",
+    "hanzi": "北京茉莉花茶",
+    "region": "베이징시",
+    "province": "베이징시",
+    "type": "화차",
+    "famousArea": "베이징",
+    "process": [
+      "차 베이스 준비",
+      "꽃 혼합",
+      "착향",
+      "꽃 제거",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "장일원",
+        "url": "https://www.google.com/search?q=%EC%9E%A5%EC%9D%BC%EC%9B%90%20%EB%B6%81%EA%B2%BD%EC%9E%AC%EC%8A%A4%EB%AF%BC%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "오유태",
+        "url": "https://www.google.com/search?q=%EC%98%A4%EC%9C%A0%ED%83%9C%20%EB%B6%81%EA%B2%BD%EC%9E%AC%EC%8A%A4%EB%AF%BC%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "베이징 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%B2%A0%EC%9D%B4%EC%A7%95%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EB%B6%81%EA%B2%BD%EC%9E%AC%EC%8A%A4%EB%AF%BC%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "80-90°C",
+      "time": "2-3분",
+      "ratio": "차 3g / 물 180ml",
+      "tips": "꽃향이 강하므로 낮은 온도에서 부드럽게 우리면 향이 깨끗합니다."
+    },
+    "notes": [
+      "재스민",
+      "일상차",
+      "깨끗한 향"
+    ],
+    "summary": "베이징시의 화차 계열 차로, 재스민과 일상차이 특징입니다."
+  },
+  {
+    "id": "茉莉龙珠-용주재스민",
+    "name": "용주재스민",
+    "hanzi": "茉莉龙珠",
+    "region": "푸젠성 푸저우",
+    "province": "푸젠성",
+    "type": "화차",
+    "famousArea": "푸저우",
+    "process": [
+      "차 베이스 준비",
+      "꽃 혼합",
+      "착향",
+      "꽃 제거",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "장일원",
+        "url": "https://www.google.com/search?q=%EC%9E%A5%EC%9D%BC%EC%9B%90%20%EC%9A%A9%EC%A3%BC%EC%9E%AC%EC%8A%A4%EB%AF%BC%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "오유태",
+        "url": "https://www.google.com/search?q=%EC%98%A4%EC%9C%A0%ED%83%9C%20%EC%9A%A9%EC%A3%BC%EC%9E%AC%EC%8A%A4%EB%AF%BC%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "푸저우 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%91%B8%EC%A0%80%EC%9A%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%9A%A9%EC%A3%BC%EC%9E%AC%EC%8A%A4%EB%AF%BC%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "80-90°C",
+      "time": "2-3분",
+      "ratio": "차 3g / 물 180ml",
+      "tips": "꽃향이 강하므로 낮은 온도에서 부드럽게 우리면 향이 깨끗합니다."
+    },
+    "notes": [
+      "진한 꽃향",
+      "둥근 잎",
+      "달큰함"
+    ],
+    "summary": "푸젠성 푸저우의 화차 계열 차로, 진한 꽃향과 둥근 잎이 특징입니다."
+  },
+  {
+    "id": "桂花乌龙-계화우롱",
+    "name": "계화우롱",
+    "hanzi": "桂花乌龙",
+    "region": "푸젠성 안시",
+    "province": "푸젠성",
+    "type": "화차",
+    "famousArea": "안시",
+    "process": [
+      "차 베이스 준비",
+      "꽃 혼합",
+      "착향",
+      "꽃 제거",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "장일원",
+        "url": "https://www.google.com/search?q=%EC%9E%A5%EC%9D%BC%EC%9B%90%20%EA%B3%84%ED%99%94%EC%9A%B0%EB%A1%B1%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "오유태",
+        "url": "https://www.google.com/search?q=%EC%98%A4%EC%9C%A0%ED%83%9C%20%EA%B3%84%ED%99%94%EC%9A%B0%EB%A1%B1%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "안시 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%95%88%EC%8B%9C%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EA%B3%84%ED%99%94%EC%9A%B0%EB%A1%B1%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "80-90°C",
+      "time": "2-3분",
+      "ratio": "차 3g / 물 180ml",
+      "tips": "꽃향이 강하므로 낮은 온도에서 부드럽게 우리면 향이 깨끗합니다."
+    },
+    "notes": [
+      "계화향",
+      "우롱 바디",
+      "달큰함"
+    ],
+    "summary": "푸젠성 안시의 화차 계열 차로, 계화향과 우롱 바디이 특징입니다."
+  },
+  {
+    "id": "桂花红茶-계화홍차",
+    "name": "계화홍차",
+    "hanzi": "桂花红茶",
+    "region": "광시좡족자치구 구이린",
+    "province": "광시좡족자치구",
+    "type": "화차",
+    "famousArea": "구이린",
+    "process": [
+      "차 베이스 준비",
+      "꽃 혼합",
+      "착향",
+      "꽃 제거",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "장일원",
+        "url": "https://www.google.com/search?q=%EC%9E%A5%EC%9D%BC%EC%9B%90%20%EA%B3%84%ED%99%94%ED%99%8D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "오유태",
+        "url": "https://www.google.com/search?q=%EC%98%A4%EC%9C%A0%ED%83%9C%20%EA%B3%84%ED%99%94%ED%99%8D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "구이린 지역 생산자",
+        "url": "https://www.google.com/search?q=%EA%B5%AC%EC%9D%B4%EB%A6%B0%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EA%B3%84%ED%99%94%ED%99%8D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "80-90°C",
+      "time": "2-3분",
+      "ratio": "차 3g / 물 180ml",
+      "tips": "꽃향이 강하므로 낮은 온도에서 부드럽게 우리면 향이 깨끗합니다."
+    },
+    "notes": [
+      "계화향",
+      "홍차 단맛",
+      "부드러움"
+    ],
+    "summary": "광시좡족자치구 구이린의 화차 계열 차로, 계화향과 홍차 단맛이 특징입니다."
+  },
+  {
+    "id": "菊普茶-국화보이",
+    "name": "국화보이",
+    "hanzi": "菊普茶",
+    "region": "윈난성 푸얼",
+    "province": "윈난성",
+    "type": "화차",
+    "famousArea": "푸얼",
+    "process": [
+      "차 베이스 준비",
+      "꽃 혼합",
+      "착향",
+      "꽃 제거",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "장일원",
+        "url": "https://www.google.com/search?q=%EC%9E%A5%EC%9D%BC%EC%9B%90%20%EA%B5%AD%ED%99%94%EB%B3%B4%EC%9D%B4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "오유태",
+        "url": "https://www.google.com/search?q=%EC%98%A4%EC%9C%A0%ED%83%9C%20%EA%B5%AD%ED%99%94%EB%B3%B4%EC%9D%B4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "푸얼 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%91%B8%EC%96%BC%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EA%B5%AD%ED%99%94%EB%B3%B4%EC%9D%B4%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "80-90°C",
+      "time": "2-3분",
+      "ratio": "차 3g / 물 180ml",
+      "tips": "꽃향이 강하므로 낮은 온도에서 부드럽게 우리면 향이 깨끗합니다."
+    },
+    "notes": [
+      "국화향",
+      "숙차향",
+      "순함"
+    ],
+    "summary": "윈난성 푸얼의 화차 계열 차로, 국화향과 숙차향이 특징입니다."
+  },
+  {
+    "id": "玫瑰红茶-장미홍차",
+    "name": "장미홍차",
+    "hanzi": "玫瑰红茶",
+    "region": "윈난성 린창",
+    "province": "윈난성",
+    "type": "화차",
+    "famousArea": "린창",
+    "process": [
+      "차 베이스 준비",
+      "꽃 혼합",
+      "착향",
+      "꽃 제거",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "장일원",
+        "url": "https://www.google.com/search?q=%EC%9E%A5%EC%9D%BC%EC%9B%90%20%EC%9E%A5%EB%AF%B8%ED%99%8D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "오유태",
+        "url": "https://www.google.com/search?q=%EC%98%A4%EC%9C%A0%ED%83%9C%20%EC%9E%A5%EB%AF%B8%ED%99%8D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "린창 지역 생산자",
+        "url": "https://www.google.com/search?q=%EB%A6%B0%EC%B0%BD%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%EC%9E%A5%EB%AF%B8%ED%99%8D%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "80-90°C",
+      "time": "2-3분",
+      "ratio": "차 3g / 물 180ml",
+      "tips": "꽃향이 강하므로 낮은 온도에서 부드럽게 우리면 향이 깨끗합니다."
+    },
+    "notes": [
+      "장미향",
+      "몰트",
+      "부드러운 단맛"
+    ],
+    "summary": "윈난성 린창의 화차 계열 차로, 장미향과 몰트이 특징입니다."
+  },
+  {
+    "id": "八宝茶-팔보차",
+    "name": "팔보차",
+    "hanzi": "八宝茶",
+    "region": "간쑤성 란저우",
+    "province": "간쑤성",
+    "type": "화차",
+    "famousArea": "서북 지역",
+    "process": [
+      "차 베이스 준비",
+      "꽃 혼합",
+      "착향",
+      "꽃 제거",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "장일원",
+        "url": "https://www.google.com/search?q=%EC%9E%A5%EC%9D%BC%EC%9B%90%20%ED%8C%94%EB%B3%B4%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "오유태",
+        "url": "https://www.google.com/search?q=%EC%98%A4%EC%9C%A0%ED%83%9C%20%ED%8C%94%EB%B3%B4%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "서북 지역 지역 생산자",
+        "url": "https://www.google.com/search?q=%EC%84%9C%EB%B6%81%20%EC%A7%80%EC%97%AD%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%ED%8C%94%EB%B3%B4%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "80-90°C",
+      "time": "2-3분",
+      "ratio": "차 3g / 물 180ml",
+      "tips": "꽃향이 강하므로 낮은 온도에서 부드럽게 우리면 향이 깨끗합니다."
+    },
+    "notes": [
+      "대추",
+      "구기자",
+      "달큰함"
+    ],
+    "summary": "간쑤성 란저우의 화차 계열 차로, 대추과 구기자이 특징입니다."
+  },
+  {
+    "id": "海南苦丁茶-해남고정차",
+    "name": "해남고정차",
+    "hanzi": "海南苦丁茶",
+    "region": "하이난성",
+    "province": "하이난성",
+    "type": "화차",
+    "famousArea": "하이난",
+    "process": [
+      "차 베이스 준비",
+      "꽃 혼합",
+      "착향",
+      "꽃 제거",
+      "건조"
+    ],
+    "brands": [
+      {
+        "name": "장일원",
+        "url": "https://www.google.com/search?q=%EC%9E%A5%EC%9D%BC%EC%9B%90%20%ED%95%B4%EB%82%A8%EA%B3%A0%EC%A0%95%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "오유태",
+        "url": "https://www.google.com/search?q=%EC%98%A4%EC%9C%A0%ED%83%9C%20%ED%95%B4%EB%82%A8%EA%B3%A0%EC%A0%95%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      },
+      {
+        "name": "하이난 지역 생산자",
+        "url": "https://www.google.com/search?q=%ED%95%98%EC%9D%B4%EB%82%9C%20%EC%A7%80%EC%97%AD%20%EC%83%9D%EC%82%B0%EC%9E%90%20%ED%95%B4%EB%82%A8%EA%B3%A0%EC%A0%95%EC%B0%A8%20%EC%B0%A8%20%EA%B5%AC%EB%A7%A4"
+      }
+    ],
+    "brew": {
+      "temperature": "80-90°C",
+      "time": "2-3분",
+      "ratio": "차 3g / 물 180ml",
+      "tips": "꽃향이 강하므로 낮은 온도에서 부드럽게 우리면 향이 깨끗합니다."
+    },
+    "notes": [
+      "강한 쓴맛",
+      "청량감",
+      "허브감"
+    ],
+    "summary": "하이난성의 화차 계열 차로, 강한 쓴맛과 청량감이 특징입니다."
+  }
+]
